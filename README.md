@@ -5,6 +5,7 @@ This project looks at creating a controlled vocabulary for the DICOM Pt 6 Data D
 - - (eg Part 6 0010,0040 Patient Sex)
   - (Link to Part 16 CID 7455 Sex)
   - (Ingest FHIR JSON)
+  - (Create "maps to" from Source to Standard vocabulary for OMOP gender)
 - Identify current gaps in SNOMED and LOINC mapping from DICOM 
 
 References
