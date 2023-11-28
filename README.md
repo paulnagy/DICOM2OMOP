@@ -1,5 +1,11 @@
 # DicomVocab2OMOP
-This project looks at creating a controlled vocabulary for the DICOM Pt 6 Data Dictionary with a focus on CS code strings in the OMOP vocabulary format and harmonizing common data elements.
+This project looks at creating a controlled vocabulary for the DICOM Pt 6 Data Dictionary with a focus on CS code strings in the OMOP vocabulary format and harmonizing common data elements (CDE).
+
+- Create a library that takes a dicom tag
+- - (eg Part 6 0010,0040 Patient Sex)
+  - (Link to Part 16 CID 7455 Sex)
+  - (Ingest FHIR JSON)
+- Identify current gaps in SNOMED and LOINC mapping from DICOM 
 
 References
 - [Part 5 of Dicom Standard identifying Code Structures.](https://dicom.nema.org/medical/dicom/current/output/html/part05.html)
