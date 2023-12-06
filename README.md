@@ -1,4 +1,4 @@
-# DicomVocab2OMOP
+# Dicom2OMOP
 This project looks at creating a controlled vocabulary for the DICOM Pt 6 Data Dictionary with a focus on CS code strings in the OMOP vocabulary format and harmonizing common data elements (CDE).
 
 - Create a library that takes a dicom tag
