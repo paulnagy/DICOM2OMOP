@@ -13,8 +13,10 @@ This project looks at creating a controlled vocabulary for the DICOM Pt 6 Data D
 
 Developed and Tested for:
 - WSL Ubuntu 22.04.3 LTS (Jammy Jellyfish)
+- openjdk version "11.0.21" 2023-10-17
+- Python 3.10.12
 
-## Setup
+## Instructions
 
 ### 0. Ensure the system is up to date and install dependencies
 
@@ -69,11 +71,13 @@ curl https://repo1.maven.org/maven2/javax/json/javax.json-api/1.0/javax.json-api
 curl https://repo1.maven.org/maven2/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar --output javax.json-1.0.4.jar
 ```
 
-#### 5.2 Create a backup of the bash script used to extract valuesets, then modify the reference to the Java packages
+#### 5.2 Create a backup of the bash script used to extract valuesets, then modify the reference to the Java packages in the bash file and run it
 
 ```bash
 cp extractvaluesets.sh{,.old}
 sed -i 's|${HOME}/work/pixelmed/imgbook/lib/additional/|./|g' extractvaluesets.sh
+
+./extractvaluesets.sh
 ```
 
 #### 5.3 Count the extracted json files to validate they match
@@ -96,11 +100,11 @@ cd ../..
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-
-python DICOM_P16_harvest_json.py
 ```
 
-For some reason, I had to force reinstall ipykernal using `pip install ipykernel -U --force-reinstall` to get the .ipynb files to work in VSCode, despite it being in requirements.txt.
+```bash
+python DICOM_P16_harvest_fhir_json.py
+```
 
 
 ## References
