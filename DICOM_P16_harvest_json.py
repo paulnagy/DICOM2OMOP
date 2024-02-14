@@ -41,6 +41,5 @@ for file in json_files:
 
 # Save the combined DataFrame as CSV and Parquet
 df_combined.to_csv('./files/fhir_valuesets.csv', index=False)
-df_combined.to_parquet('./files/fhir_valuesets.parquet', index=False)
 
-print("Files saved: fhir_valuesets.csv and fhir_valuesets.parquet")
+print("Files saved: fhir_valuesets.csv")
