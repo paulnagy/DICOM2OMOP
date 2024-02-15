@@ -789,12 +789,4 @@ Tag,Name,Keyword,VR,VM
 "(4010,106E)",Additional Inspection Selection Criteria,Additional​Inspection​Selection​Criteria,CS,1
 "(4010,1070)",AIT Device Type,AIT​Device​Type,CS,1
 "(4010,107C)",Inspection Selection Criteria,Inspection​Selection​Criteria,CS,1
-"(50xx,0020)",Type of Data,Type​Of​Data,CS,1
-"(50xx,1001)",Curve Activation Layer,Curve​Activation​Layer,CS,1
 "(5400,1006)",Waveform Sample Interpretation,Waveform​Sample​Interpretation,CS,1
-"(60xx,0040)",Overlay Type,Overlay​Type,CS,1
-"(60xx,0060)",Overlay Compression Code,Overlay​Compression​Code,CS,1
-"(60xx,0063)",Overlay Compression Description,Overlay​Compression​Description,CS,1
-"(60xx,0110)",Overlay Format,Overlay​Format,CS,1
-"(60xx,0800)",Overlay Code Label,Overlay​Code​Label,CS,1-n
-"(60xx,1001)",Overlay Activation Layer,Overlay​Activation​Layer,CS,1
