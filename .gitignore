@@ -1,0 +1,7 @@
+.venv
+sourceandrenderingpipeline
+OMOP_vocabulary_v5
+.DS_Store
+test.txt
+ADNI
+*.log

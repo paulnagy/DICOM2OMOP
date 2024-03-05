@@ -1,0 +1,792 @@
+Tag,Name,Keyword,VR,VM
+"(0008,0005)",Specific Character Set,Specific​Character​Set,CS,1-n
+"(0008,0008)",Image Type,Image​Type,CS,2-n
+"(0008,0042)",Nuclear Medicine Series Type,Nuclear​Medicine​Series​Type,CS,1
+"(0008,0052)",Query/Retrieve Level,Query​Retrieve​Level,CS,1
+"(0008,0053)",Query/Retrieve View,Query​Retrieve​View,CS,1
+"(0008,0056)",Instance Availability,Instance​Availability,CS,1
+"(0008,0060)",Modality,Modality,CS,1
+"(0008,0061)",Modalities in Study,Modalities​In​Study,CS,1-n
+"(0008,0064)",Conversion Type,Conversion​Type,CS,1
+"(0008,0068)",Presentation Intent Type,Presentation​Intent​Type,CS,1
+"(0008,0105)",Mapping Resource,Mapping​Resource,CS,1
+"(0008,010A)",Coding Scheme URL Type,Coding​Scheme​URL​Type,CS,1
+"(0008,010B)",Context Group Extension Flag,Context​Group​Extension​Flag,CS,1
+"(0008,010F)",Context Identifier,Context​Identifier,CS,1
+"(0008,0221)",Equipment Modality,Equipment​Modality,CS,1
+"(0008,0303)",Block Identifying Information Status,Block​Identifying​Information​Status,CS,1
+"(0008,0307)",Deidentification Action,Deidentification​Action,CS,1
+"(0008,030A)",Private Data Element Value Representation,Private​Data​Element​Value​Representation,CS,1
+"(0008,0403)",Inventory Level,Inventory​Level,CS,1
+"(0008,0405)",Removed from Operational Use,Removed​From​Operational​Use,CS,1
+"(0008,040A)",Container File Type,Container​File​Type,CS,1
+"(0008,040F)",Extended Matching Mechanisms,Extended​Matching​Mechanisms,CS,1-n
+"(0008,0415)",Retain Instances,Retain​Instances,CS,1
+"(0008,0417)",Transaction Status,Transaction​Status,CS,1
+"(0008,0426)",Inventory Completion Status,Inventory​Completion​Status,CS,1
+"(0008,2110)",Lossy Image Compression (Retired),Lossy​Image​Compression​Retired,CS,1
+"(0008,2200)",Transducer Position,Transducer​Position,CS,1
+"(0008,2204)",Transducer Orientation,Transducer​Orientation,CS,1
+"(0008,2208)",Anatomic Structure,Anatomic​Structure,CS,1
+"(0008,9007)",Frame Type,Frame​Type,CS,4-5
+"(0008,9205)",Pixel Presentation,Pixel​Presentation,CS,1
+"(0008,9206)",Volumetric Properties,Volumetric​Properties,CS,1
+"(0008,9207)",Volume Based Calculation Technique,Volume​Based​Calculation​Technique,CS,1
+"(0008,9208)",Complex Image Component,Complex​Image​Component,CS,1
+"(0008,9209)",Acquisition Contrast,Acquisition​Contrast,CS,1
+"(0008,9460)",Skip Frame Range Flag,Skip​Frame​Range​Flag,CS,1
+"(0010,0022)",Type of Patient ID,Type​Of​Patient​ID,CS,1
+"(0010,0035)",Patient's Alternative Calendar,Patient​Alternative​Calendar,CS,1
+"(0010,0040)",Patient's Sex,Patient​Sex,CS,1
+"(0010,0200)",Quality Control Subject,Quality​Control​Subject,CS,1
+"(0010,21A0)",Smoking Status,Smoking​Status,CS,1
+"(0010,2203)",Patient's Sex Neutered,Patient​Sex​Neutered,CS,1
+"(0010,2210)",Anatomical Orientation Type,Anatomical​Orientation​Type,CS,1
+"(0010,2298)",Responsible Person Role,Responsible​Person​Role,CS,1
+"(0012,0053)",Longitudinal Temporal Event Type,Longitudinal​Temporal​Event​Type,CS,1
+"(0012,0062)",Patient Identity Removed,Patient​Identity​Removed,CS,1
+"(0012,0084)",Distribution Type,Distribution​Type,CS,1
+"(0012,0085)",Consent for Distribution Flag,Consent​For​Distribution​Flag,CS,1
+"(0014,0050)",Component Shape,Component​Shape,CS,1
+"(0014,0052)",Curvature Type,Curvature​Type,CS,1
+"(0014,0101)",Secondary Approval Status,Secondary​Approval​Status,CS,1
+"(0014,0107)",Other Approval Status,Other​Approval​Status,CS,1-n
+"(0014,0108)",Other Secondary Approval Status,Other​Secondary​Approval​Status,CS,1-n
+"(0014,0205)",Data Element Conditionality,Data​Element​Conditionality,CS,1
+"(0014,201A)",Indication Type,Indication​Type,CS,1-n
+"(0014,201C)",Indication Disposition,Indication​Disposition,CS,1
+"(0014,2208)",Coordinate System Data Set Mapping,Coordinate​System​Data​Set​Mapping,CS,1
+"(0014,220C)",Coordinate System Axis Type,Coordinate​System​Axis​Type,CS,1
+"(0014,220E)",Coordinate System Axis Units,Coordinate​System​Axis​Units,CS,1
+"(0014,2228)",Transformed Axis Units,Transformed​Axis​Units,CS,1
+"(0014,4004)",Pulser Type,Pulser​Type,CS,1
+"(0014,400A)",Amplifier Type,Amplifier​Type,CS,1
+"(0014,4013)",Element Shape,Element​Shape,CS,1
+"(0014,4026)",Modulation Type,Modulation​Type,CS,1
+"(0014,4032)",Acquisition Compression Type,Acquisition​Compression​Type,CS,1
+"(0014,4036)",DAC Type,DAC​Type,CS,1
+"(0014,4081)",Drive Type,Drive​Type,CS,1
+"(0014,5105)",Connector Type,Connector​Type,CS,1
+"(0014,5109)",Wedge Element 1 Position,Wedge​Element​1​Position,CS,1
+"(0014,511E)",Wedge Curve,Wedge​Curve,CS,1
+"(0016,0061)",Interoperability Index,Interoperability​Index,CS,1
+"(0016,0071)",GPS Latitude​ Ref,GPS​Latitude​Ref,CS,1
+"(0016,0073)",GPS Longitude Ref,GPS​Longitude​​Ref,CS,1
+"(0016,0079)",GPS Status,GPS​Status,CS,1
+"(0016,007A)",GPS Measure ​Mode,GPS​Measure​​Mode,CS,1
+"(0016,007C)",GPS Speed​ Ref,GPS​Speed​Ref,CS,1
+"(0016,007E)",GPS Track ​Ref,GPS​Track​​Ref,CS,1
+"(0016,0080)",GPS Img​ Direction Ref,GPS​Img​Direction​Ref,CS,1
+"(0016,0083)",GPS Dest ​Latitude Ref,GPS​Dest​Latitude​Ref,CS,1
+"(0016,0085)",GPS Dest​ Longitude Ref,GPS​Dest​Longitude​Ref,CS,1
+"(0016,0087)",GPS Dest ​Bearing Ref,GPS​Dest​Bearing​Ref,CS,1
+"(0016,0089)",GPS Dest ​Distance Ref,GPS​Dest​Distance​Ref,CS,1
+"(0016,1001)",Light Source Polarization,Light​Source​Polarization,CS,1
+"(0016,1003)",Contact Method,Contact​Method,CS,1
+"(0016,1004)",Immersion Media,Immersion​Media,CS,1-n
+"(0018,0015)",Body Part Examined,Body​Part​Examined,CS,1
+"(0018,0020)",Scanning Sequence,Scanning​Sequence,CS,1-n
+"(0018,0021)",Sequence Variant,Sequence​Variant,CS,1-n
+"(0018,0022)",Scan Options,Scan​Options,CS,1-n
+"(0018,0023)",MR Acquisition Type,MR​Acquisition​Type,CS,1
+"(0018,0025)",Angio Flag,Angio​Flag,CS,1
+"(0018,0037)",Therapy Type,Therapy​Type,CS,1
+"(0018,0038)",Intervention Status,Intervention​Status,CS,1
+"(0018,0039)",Therapy Description,Therapy​Description,CS,1
+"(0018,0042)",Initial Cine Run State,Initial​Cine​Run​State,CS,1
+"(0018,0071)",Acquisition Termination Condition,Acquisition​Termination​Condition,CS,1
+"(0018,0073)",Acquisition Start Condition,Acquisition​Start​Condition,CS,1
+"(0018,1048)",Contrast/Bolus Ingredient,Contrast​Bolus​Ingredient,CS,1
+"(0018,106A)",Synchronization Trigger,Synchronization​Trigger,CS,1
+"(0018,1080)",Beat Rejection Flag,Beat​Rejection​Flag,CS,1
+"(0018,1134)",Table Motion,Table​Motion,CS,1
+"(0018,113A)",Table Type,Table​Type,CS,1
+"(0018,1140)",Rotation Direction,Rotation​Direction,CS,1
+"(0018,1147)",Field of View Shape,Field​Of​View​Shape,CS,1
+"(0018,1155)",Radiation Setting,Radiation​Setting,CS,1
+"(0018,1156)",Rectification Type,Rectification​Type,CS,1
+"(0018,115A)",Radiation Mode,Radiation​Mode,CS,1
+"(0018,1166)",Grid,Grid,CS,1-n
+"(0018,1181)",Collimator Type,Collimator​Type,CS,1
+"(0018,1191)",Anode Target Material,Anode​Target​Material,CS,1
+"(0018,11B2)",Acquired Subtraction Mask Flag,Acquired​Subtraction​Mask​Flag,CS,1
+"(0018,11B3)",Fluoroscopy Persistence Flag,Fluoroscopy​Persistence​Flag,CS,1
+"(0018,11B4)",Fluoroscopy Last Image Hold Persistence Flag,Fluoroscopy​Last​Image​Hold​Persistence​Flag,CS,1
+"(0018,11B6)",Contrast/Bolus Auto Injection Trigger Flag,Contrast​Bolus​Auto​Injection​Trigger​Flag,CS,1
+"(0018,11BE)",Reconstruction Pipeline Type,Reconstruction​Pipeline​Type,CS,1
+"(0018,11C0)",Applied Mask Subtraction Flag,Applied​Mask​Subtraction​Flag,CS,1
+"(0018,1301)",Whole Body Technique,Whole​Body​Technique,CS,1-n
+"(0018,1312)",In-plane Phase Encoding Direction,In​Plane​Phase​Encoding​Direction,CS,1
+"(0018,1315)",Variable Flip Angle Flag,Variable​Flip​Angle​Flag,CS,1
+"(0018,1402)",Cassette Orientation,Cassette​Orientation,CS,1
+"(0018,1403)",Cassette Size,Cassette​Size,CS,1
+"(0018,1490)",Tomo Type,Tomo​Type,CS,1
+"(0018,1491)",Tomo Class,Tomo​Class,CS,1
+"(0018,1500)",Positioner Motion,Positioner​Motion,CS,1
+"(0018,1508)",Positioner Type,Positioner​Type,CS,1
+"(0018,1600)",Shutter Shape,Shutter​Shape,CS,1-3
+"(0018,1630)",Outline Shape Type,Outline​Shape​Type,CS,1
+"(0018,1700)",Collimator Shape,Collimator​Shape,CS,1-3
+"(0018,1800)",Acquisition Time Synchronized,Acquisition​Time​Synchronized,CS,1
+"(0018,1802)",Time Distribution Protocol,Time​Distribution​Protocol,CS,1
+"(0018,2020)",Digitizing Device Transport Direction,Digitizing​Device​Transport​Direction,CS,1
+"(0018,3100)",IVUS Acquisition,IVUS​Acquisition,CS,1
+"(0018,5100)",Patient Position,Patient​Position,CS,1
+"(0018,5101)",View Position,View​Position,CS,1
+"(0018,6031)",Transducer Type,Transducer​Type,CS,1
+"(0018,7000)",Detector Conditions Nominal Flag,Detector​Conditions​Nominal​Flag,CS,1
+"(0018,7004)",Detector Type,Detector​Type,CS,1
+"(0018,7005)",Detector Configuration,Detector​Configuration,CS,1
+"(0018,7024)",Detector Active Shape,Detector​Active​Shape,CS,1
+"(0018,7034)",Field of View Horizontal Flip,Field​Of​View​Horizontal​Flip,CS,1
+"(0018,7050)",Filter Material,Filter​Material,CS,1-n
+"(0018,7060)",Exposure Control Mode,Exposure​Control​Mode,CS,1
+"(0018,7064)",Exposure Status,Exposure​Status,CS,1
+"(0018,9004)",Content Qualification,Content​Qualification,CS,1
+"(0018,9008)",Echo Pulse Sequence,Echo​Pulse​Sequence,CS,1
+"(0018,9009)",Inversion Recovery,Inversion​Recovery,CS,1
+"(0018,9010)",Flow Compensation,Flow​Compensation,CS,1
+"(0018,9011)",Multiple Spin Echo,Multiple​Spin​Echo,CS,1
+"(0018,9012)",Multi-planar Excitation,Multi​Planar​Excitation,CS,1
+"(0018,9014)",Phase Contrast,Phase​Contrast,CS,1
+"(0018,9015)",Time of Flight Contrast,Time​Of​Flight​Contrast,CS,1
+"(0018,9016)",Spoiling,Spoiling,CS,1
+"(0018,9017)",Steady State Pulse Sequence,Steady​State​Pulse​Sequence,CS,1
+"(0018,9018)",Echo Planar Pulse Sequence,Echo​Planar​Pulse​Sequence,CS,1
+"(0018,9020)",Magnetization Transfer,Magnetization​Transfer,CS,1
+"(0018,9021)",T2 Preparation,T2Preparation,CS,1
+"(0018,9022)",Blood Signal Nulling,Blood​Signal​Nulling,CS,1
+"(0018,9024)",Saturation Recovery,Saturation​Recovery,CS,1
+"(0018,9025)",Spectrally Selected Suppression,Spectrally​Selected​Suppression,CS,1
+"(0018,9026)",Spectrally Selected Excitation,Spectrally​Selected​Excitation,CS,1
+"(0018,9027)",Spatial Pre-saturation,Spatial​Presaturation,CS,1
+"(0018,9028)",Tagging,Tagging,CS,1
+"(0018,9029)",Oversampling Phase,Oversampling​Phase,CS,1
+"(0018,9032)",Geometry of k-Space Traversal,Geometry​Of​K​Space​Traversal,CS,1
+"(0018,9033)",Segmented k-Space Traversal,Segmented​K​Space​Traversal,CS,1
+"(0018,9034)",Rectilinear Phase Encode Reordering,Rectilinear​Phase​Encode​Reordering,CS,1
+"(0018,9036)",Partial Fourier Direction,Partial​Fourier​Direction,CS,1
+"(0018,9037)",Cardiac Synchronization Technique,Cardiac​Synchronization​Technique,CS,1
+"(0018,9043)",Receive Coil Type,Receive​Coil​Type,CS,1
+"(0018,9044)",Quadrature Receive Coil,Quadrature​Receive​Coil,CS,1
+"(0018,9048)",Multi-Coil Element Used,Multi​Coil​Element​Used,CS,1
+"(0018,9051)",Transmit Coil Type,Transmit​Coil​Type,CS,1
+"(0018,9054)",Volume Localization Technique,Volume​Localization​Technique,CS,1
+"(0018,9059)",De-coupling,Decoupling,CS,1
+"(0018,9060)",De-coupled Nucleus,Decoupled​Nucleus,CS,1-2
+"(0018,9062)",De-coupling Method,Decoupling​Method,CS,1
+"(0018,9064)",k-space Filtering,K​Space​Filtering,CS,1
+"(0018,9065)",Time Domain Filtering,Time​Domain​Filtering,CS,1-2
+"(0018,9067)",Baseline Correction,Baseline​Correction,CS,1
+"(0018,9075)",Diffusion Directionality,Diffusion​Directionality,CS,1
+"(0018,9077)",Parallel Acquisition,Parallel​Acquisition,CS,1
+"(0018,9078)",Parallel Acquisition Technique,Parallel​Acquisition​Technique,CS,1
+"(0018,9081)",Partial Fourier,Partial​Fourier,CS,1
+"(0018,9085)",Cardiac Signal Source,Cardiac​Signal​Source,CS,1
+"(0018,9094)",Coverage of k-Space,Coverage​Of​K​Space,CS,1
+"(0018,9100)",Resonant Nucleus,Resonant​Nucleus,CS,1-2
+"(0018,9101)",Frequency Correction,Frequency​Correction,CS,1
+"(0018,9147)",Diffusion Anisotropy Type,Diffusion​Anisotropy​Type,CS,1
+"(0018,9166)",Bulk Motion Status,Bulk​Motion​Status,CS,1
+"(0018,9169)",Cardiac Beat Rejection Technique,Cardiac​Beat​Rejection​Technique,CS,1
+"(0018,9170)",Respiratory Motion Compensation Technique,Respiratory​Motion​Compensation​Technique,CS,1
+"(0018,9171)",Respiratory Signal Source,Respiratory​Signal​Source,CS,1
+"(0018,9172)",Bulk Motion Compensation Technique,Bulk​Motion​Compensation​Technique,CS,1
+"(0018,9173)",Bulk Motion Signal Source,Bulk​Motion​Signal​Source,CS,1
+"(0018,9174)",Applicable Safety Standard Agency,Applicable​Safety​Standard​Agency,CS,1
+"(0018,9177)",Operating Mode Type,Operating​Mode​Type,CS,1
+"(0018,9178)",Operating Mode,Operating​Mode,CS,1
+"(0018,9179)",Specific Absorption Rate Definition,Specific​Absorption​Rate​Definition,CS,1
+"(0018,9180)",Gradient Output Type,Gradient​Output​Type,CS,1
+"(0018,9183)",Flow Compensation Direction,Flow​Compensation​Direction,CS,1
+"(0018,9198)",First Order Phase Correction,First​Order​Phase​Correction,CS,1
+"(0018,9199)",Water Referenced Phase Correction,Water​Referenced​Phase​Correction,CS,1
+"(0018,9200)",MR Spectroscopy Acquisition Type,MR​Spectroscopy​Acquisition​Type,CS,1
+"(0018,9214)",Respiratory Cycle Position,Respiratory​Cycle​Position,CS,1
+"(0018,9236)",Cardiac Cycle Position,Cardiac​Cycle​Position,CS,1
+"(0018,9250)",Arterial Spin Labeling Contrast,Arterial​Spin​Labeling​Contrast,CS,1
+"(0018,9257)",ASL Context,ASL​Context,CS,1
+"(0018,9259)",ASL Crusher Flag,ASL​Crusher​Flag,CS,1
+"(0018,925C)",ASL Bolus Cut-off Flag,ASL​Bolus​Cutoff​Flag,CS,1
+"(0018,9297)",Water Reference Acquisition,Water​Reference​Acquisition,CS,1
+"(0018,9302)",Acquisition Type,Acquisition​Type,CS,1
+"(0018,9315)",Reconstruction Algorithm,Reconstruction​Algorithm,CS,1
+"(0018,9316)",Convolution Kernel Group,Convolution​Kernel​Group,CS,1
+"(0018,9323)",Exposure Modulation Type,Exposure​Modulation​Type,CS,1-n
+"(0018,9333)",Constant Volume Flag,Constant​Volume​Flag,CS,1
+"(0018,9334)",Fluoroscopy Flag,Fluoroscopy​Flag,CS,1
+"(0018,9342)",Contrast/Bolus Agent Administered,Contrast​Bolus​Agent​Administered,CS,1
+"(0018,9343)",Contrast/Bolus Agent Detected,Contrast​Bolus​Agent​Detected,CS,1
+"(0018,9344)",Contrast/Bolus Agent Phase,Contrast​Bolus​Agent​Phase,CS,1
+"(0018,9361)",Multi-energy CT Acquisition,Multienergy​CT​Acquisition,CS,1
+"(0018,9368)",Multi-energy Source Technique,Multienergy​Source​Technique,CS,1
+"(0018,9372)",Multi-energy Detector Type,Multienergy​Detector​Type,CS,1
+"(0018,937E)",Decomposition Method,Decomposition​Method,CS,1
+"(0018,9410)",Planes in Acquisition,Planes​In​Acquisition,CS,1
+"(0018,9420)",X-Ray Receptor Type,X​Ray​Receptor​Type,CS,1
+"(0018,9425)",Contrast/Bolus Ingredient Opaque,Contrast​Bolus​Ingredient​Opaque,CS,1
+"(0018,9427)",Intensifier Active Shape,Intensifier​Active​Shape,CS,1
+"(0018,9435)",Exposure Control Sensing Region Shape,Exposure​Control​Sensing​Region​Shape,CS,1
+"(0018,9457)",Plane Identification,Plane​Identification,CS,1
+"(0018,9474)",C-arm Positioner Tabletop Relationship,C​Arm​Positioner​Tabletop​Relationship,CS,1
+"(0018,9527)",Algorithm Type,Algorithm​Type,CS,1
+"(0018,9559)",Positioner Primary Angle Direction,Positioner​Primary​Angle​Direction,CS,1
+"(0018,9622)",Functional Settling Phase Frames Present,Functional​Settling​Phase​Frames​Present,CS,1
+"(0018,9624)",Settling Phase Frame,Settling​Phase​Frame,CS,1
+"(0018,9725)",Detector Geometry,Detector​Geometry,CS,1
+"(0018,9738)",Attenuation Correction Source,Attenuation​Correction​Source,CS,1
+"(0018,9755)",Time of Flight Information Used,Time​Of​Flight​Information​Used,CS,1
+"(0018,9756)",Reconstruction Type,Reconstruction​Type,CS,1
+"(0018,9758)",Decay Corrected,Decay​Corrected,CS,1
+"(0018,9759)",Attenuation Corrected,Attenuation​Corrected,CS,1
+"(0018,9760)",Scatter Corrected,Scatter​Corrected,CS,1
+"(0018,9761)",Dead Time Corrected,Dead​Time​Corrected,CS,1
+"(0018,9762)",Gantry Motion Corrected,Gantry​Motion​Corrected,CS,1
+"(0018,9763)",Patient Motion Corrected,Patient​Motion​Corrected,CS,1
+"(0018,9764)",Count Loss Normalization Corrected,Count​Loss​Normalization​Corrected,CS,1
+"(0018,9765)",Randoms Corrected,Randoms​Corrected,CS,1
+"(0018,9766)",Non-uniform Radial Sampling Corrected,Non​Uniform​Radial​Sampling​Corrected,CS,1
+"(0018,9767)",Sensitivity Calibrated,Sensitivity​Calibrated,CS,1
+"(0018,9768)",Detector Normalization Correction,Detector​Normalization​Correction,CS,1
+"(0018,9769)",Iterative Reconstruction Method,Iterative​Reconstruction​Method,CS,1
+"(0018,9770)",Attenuation Correction Temporal Relationship,Attenuation​Correction​Temporal​Relationship,CS,1
+"(0018,9808)",Data Type,Data​Type,CS,1
+"(0018,980B)",Aliased Data Type,Aliased​Data​Type,CS,1
+"(0018,980C)",Position Measuring Device Used,Position​Measuring​Device​Used,CS,1
+"(0018,9828)",Illumination Translation Flag,Illumination​Translation​Flag,CS,1
+"(0018,9829)",Acoustic Coupling Medium Flag,Acoustic​Coupling​Medium​Flag,CS,1
+"(0018,9905)",Offset Direction,Offset​Direction,CS,1
+"(0018,9918)",Instruction Performed Flag,Instruction​Performed​Flag,CS,1
+"(0018,9930)",Acquisition Motion,Acquisition​Motion,CS,1
+"(0018,9944)",Auto KVP Selection Type,Auto​KVP​Selection​Type,CS,1
+"(0018,9947)",Protocol Defined Patient Position,Protocol​Defined​Patient​Position,CS,1
+"(0020,0020)",Patient Orientation,Patient​Orientation,CS,2
+"(0020,0060)",Laterality,Laterality,CS,1
+"(0020,0062)",Image Laterality,Image​Laterality,CS,1
+"(0020,0080)",Masking Image,Masking​Image,CS,1-n
+"(0020,31xx)",Source Image IDs,Source​Image​IDs,CS,1-n
+"(0020,3401)",Modifying Device ID,Modifying​Device​ID,CS,1
+"(0020,3402)",Modified Image ID,Modified​Image​ID,CS,1
+"(0020,9072)",Frame Laterality,Frame​Laterality,CS,1
+"(0020,9247)",Starting Respiratory Phase,Starting​Respiratory​Phase,CS,1
+"(0020,9249)",Ending Respiratory Phase,Ending​Respiratory​Phase,CS,1
+"(0020,9250)",Respiratory Trigger Type,Respiratory​Trigger​Type,CS,1
+"(0020,9307)",Ultrasound Acquisition Geometry,Ultrasound​Acquisition​Geometry,CS,1
+"(0020,930B)",Volume to Transducer Relationship,Volume​To​Transducer​Relationship,CS,1
+"(0020,930C)",Patient Frame of Reference Source,Patient​Frame​Of​Reference​Source,CS,1
+"(0020,9311)",Dimension Organization Type,Dimension​Organization​Type,CS,1
+"(0022,0005)",Patient Eye Movement Commanded,Patient​Eye​Movement​Commanded,CS,1
+"(0022,000D)",Pupil Dilated,Pupil​Dilated,CS,1
+"(0022,0028)",Stereo Pairs Present,Stereo​Pairs​Present,CS,1
+"(0022,0039)",Ophthalmic Image Orientation,Ophthalmic​Image​Orientation,CS,1
+"(0022,1009)",Ophthalmic Axial Measurements Device Type,Ophthalmic​Axial​Measurements​Device​Type,CS,1
+"(0022,1010)",Ophthalmic Axial Length Measurements Type,Ophthalmic​Axial​Length​Measurements​Type,CS,1
+"(0022,1039)",Refractive Procedure Occurred,Refractive​Procedure​Occurred,CS,1
+"(0022,1046)",Type of Optical Correction,Type​Of​Optical​Correction,CS,1
+"(0022,1049)",Pre-Selected for Implantation,Pre​Selected​For​Implantation,CS,1
+"(0022,112B)",Calculation Comment Type,Calculation​Comment​Type,CS,1
+"(0022,1140)",Ophthalmic Axial Length Measurement Modified,Ophthalmic​Axial​Length​Measurement​Modified,CS,1
+"(0022,1415)",Ophthalmic Mapping Device Type,Ophthalmic​Mapping​Device​Type,CS,1
+"(0022,1466)",Registered Localizer Units,Registered​Localizer​Units,CS,1
+"(0022,1515)",Ophthalmic Axial Length Method,Ophthalmic​Axial​Length​Method,CS,1
+"(0022,1622)",Ophthalmic Volumetric Properties Flag,Ophthalmic​Volumetric​Properties​Flag,CS,1
+"(0024,0012)",Visual Field Shape,Visual​Field​Shape,CS,1
+"(0024,0037)",Presented Visual Stimuli Data Flag,Presented​Visual​Stimuli​Data​Flag,CS,1
+"(0024,0039)",Excessive Fixation Losses Data Flag,Excessive​Fixation​Losses​Data​Flag,CS,1
+"(0024,0040)",Excessive Fixation Losses,Excessive​Fixation​Losses,CS,1
+"(0024,0045)",False Negatives Estimate Flag,False​Negatives​Estimate​Flag,CS,1
+"(0024,0051)",Excessive False Negatives Data Flag,Excessive​False​Negatives​Data​Flag,CS,1
+"(0024,0052)",Excessive False Negatives,Excessive​False​Negatives,CS,1
+"(0024,0053)",False Positives Estimate Flag,False​Positives​Estimate​Flag,CS,1
+"(0024,0055)",Catch Trials Data Flag,Catch​Trials​Data​Flag,CS,1
+"(0024,0057)",Test Point Normals Data Flag,Test​Point​Normals​Data​Flag,CS,1
+"(0024,0059)",Global Deviation Probability Normals Flag,Global​Deviation​Probability​Normals​Flag,CS,1
+"(0024,0061)",Excessive False Positives Data Flag,Excessive​False​Positives​Data​Flag,CS,1
+"(0024,0062)",Excessive False Positives,Excessive​False​Positives,CS,1
+"(0024,0063)",Visual Field Test Normals Flag,Visual​Field​Test​Normals​Flag,CS,1
+"(0024,0072)",Local Deviation Probability Normals Flag,Local​Deviation​Probability​Normals​Flag,CS,1
+"(0024,0074)",Short Term Fluctuation Calculated,Short​Term​Fluctuation​Calculated,CS,1
+"(0024,0076)",Short Term Fluctuation Probability Calculated,Short​Term​Fluctuation​Probability​Calculated,CS,1
+"(0024,0078)",Corrected Localized Deviation From Normal Calculated,Corrected​Localized​Deviation​From​Normal​Calculated,CS,1
+"(0024,0080)",Corrected Localized Deviation From Normal Probability Calculated,Corrected​Localized​Deviation​From​Normal​Probability​Calculated,CS,1
+"(0024,0086)",Foveal Sensitivity Measured,Foveal​Sensitivity​Measured,CS,1
+"(0024,0093)",Stimulus Results,Stimulus​Results,CS,1
+"(0024,0095)",Retest Stimulus Seen,Retest​Stimulus​Seen,CS,1
+"(0024,0102)",Generalized Defect Corrected Sensitivity Deviation Flag,Generalized​Defect​Corrected​Sensitivity​Deviation​Flag,CS,1
+"(0024,0106)",Blind Spot Localized,Blind​Spot​Localized,CS,1
+"(0024,0113)",Measurement Laterality,Measurement​Laterality,CS,1
+"(0024,0117)",Foveal Point Normative Data Flag,Foveal​Point​Normative​Data​Flag,CS,1
+"(0024,0120)",Screening Baseline Measured,Screening​Baseline​Measured,CS,1
+"(0024,0124)",Screening Baseline Type,Screening​Baseline​Type,CS,1
+"(0024,0338)",Index Normals Flag,Index​Normals​Flag,CS,1
+"(0028,0004)",Photometric Interpretation,Photometric​Interpretation,CS,1
+"(0028,0040)",Image Format,Image​Format,CS,1
+"(0028,0051)",Corrected Image,Corrected​Image,CS,1-n
+"(0028,0060)",Compression Code,Compression​Code,CS,1
+"(0028,0065)",Compression Sequence,Compression​Sequence,CS,1-n
+"(0028,0090)",Blocked Pixels,Blocked​Pixels,CS,1
+"(0028,0300)",Quality Control Image,Quality​Control​Image,CS,1
+"(0028,0301)",Burned In Annotation,Burned​In​Annotation,CS,1
+"(0028,0302)",Recognizable Visual Features,Recognizable​Visual​Features,CS,1
+"(0028,0303)",Longitudinal Temporal Information Modified,Longitudinal​Temporal​Information​Modified,CS,1
+"(0028,0701)",Data Block Description,Data​Block​Description,CS,1-n
+"(0028,08x0)",Code Label,Code​Label,CS,1-n
+"(0028,0A02)",Pixel Spacing Calibration Type,Pixel​Spacing​Calibration​Type,CS,1
+"(0028,1040)",Pixel Intensity Relationship,Pixel​Intensity​Relationship,CS,1
+"(0028,1056)",VOI LUT Function,VOILUT​Function,CS,1
+"(0028,1080)",Gray Scale,Gray​Scale,CS,1
+"(0028,1090)",Recommended Viewing Mode,Recommended​Viewing​Mode,CS,1
+"(0028,1300)",Breast Implant Present,Breast​Implant​Present,CS,1
+"(0028,1350)",Partial View,Partial​View,CS,1
+"(0028,135A)",Spatial Locations Preserved,Spatial​Locations​Preserved,CS,1
+"(0028,1402)",Data Path Assignment,Data​Path​Assignment,CS,1
+"(0028,1405)",Blending LUT 1 Transfer Function,Blending​LUT1Transfer​Function,CS,1
+"(0028,140D)",Blending LUT 2 Transfer Function,Blending​LUT2Transfer​Function,CS,1
+"(0028,140E)",Data Path ID,Data​Path​ID,CS,1
+"(0028,140F)",RGB LUT Transfer Function,RGBLUT​Transfer​Function,CS,1
+"(0028,1410)",Alpha LUT Transfer Function,Alpha​LUT​Transfer​Function,CS,1
+"(0028,2002)",Color Space,Color​Space,CS,1
+"(0028,2110)",Lossy Image Compression,Lossy​Image​Compression,CS,1
+"(0028,2114)",Lossy Image Compression Method,Lossy​Image​Compression​Method,CS,1-n
+"(0028,6023)",Frame of Interest Type,Frame​Of​Interest​Type,CS,1-n
+"(0028,6101)",Mask Operation,Mask​Operation,CS,1
+"(0028,7006)",System Status,System​Status,CS,1
+"(0028,7013)",Measurement Functions,Measurement​Functions,CS,1-n
+"(0028,7014)",Measurement Equipment Type,Measurement​Equipment​Type,CS,1
+"(0028,7019)",Display Function Type,Display​Function​Type,CS,1
+"(0028,7021)",White Point Flag,White​Point​Flag,CS,1
+"(0028,7025)",Ambient Light Value Source,Ambient​Light​Value​Source,CS,1
+"(0028,7026)",Measured Characteristics,Measured​Characteristics,CS,1-n
+"(0028,7029)",Test Result,Test​Result,CS,1
+"(0028,702B)",Test Image Validation,Test​Image​Validation,CS,1
+"(0028,9003)",Signal Domain Columns,Signal​Domain​Columns,CS,1
+"(0028,9108)",Data Representation,Data​Representation,CS,1
+"(0028,9235)",Signal Domain Rows,Signal​Domain​Rows,CS,1
+"(0028,9444)",Geometrical Properties,Geometrical​Properties,CS,1
+"(0028,9446)",Image Processing Applied,Image​Processing​Applied,CS,1-n
+"(0028,9454)",Mask Selection Mode,Mask​Selection​Mode,CS,1
+"(0028,9474)",LUT Function,LUT​Function,CS,1
+"(0028,9537)",Equipment Coordinate System Identification,Equipment​Coordinate​System​Identification,CS,1
+"(0032,000A)",Study Status ID,Study​Status​ID,CS,1
+"(0032,000C)",Study Priority ID,Study​Priority​ID,CS,1
+"(0032,1055)",Study Component Status ID,Study​Component​Status​ID,CS,1
+"(0034,0008)",Includes Imaging Subject,Includes​Imaging​Subject,CS,1
+"(0034,000C)",Includes Information,Includes​Information,CS,1
+"(0038,0008)",Visit Status ID,Visit​Status​ID,CS,1
+"(003A,0004)",Waveform Originality,Waveform​Originality,CS,1
+"(003A,0205)",Channel Status,Channel​Status,CS,1-n
+"(003A,0246)",Display Shading Flag,Display​Shading​Flag,CS,1
+"(003A,0302)",Channel Mode,Channel​Mode,CS,1
+"(003A,0316)",Impedance Measurement Current Type,Impedance​Measurement​Current​Type,CS,1
+"(003A,0317)",Waveform Amplifier Type,Waveform​Amplifier​Type,CS,1
+"(003A,0322)",Waveform Filter Type,Waveform​Filter​Type,CS,1
+"(0040,0020)",Scheduled Procedure Step Status,Scheduled​Procedure​Step​Status,CS,1
+"(0040,0033)",Universal Entity ID Type,Universal​Entity​ID​Type,CS,1
+"(0040,0035)",Identifier Type Code,Identifier​Type​Code,CS,1
+"(0040,0252)",Performed Procedure Step Status,Performed​Procedure​Step​Status,CS,1
+"(0040,0261)",Performed Protocol Type,Performed​Protocol​Type,CS,1
+"(0040,0318)",Organ Exposed,Organ​Exposed,CS,1
+"(0040,4001)",General Purpose Scheduled Procedure Step Status,General​Purpose​Scheduled​Procedure​Step​Status,CS,1
+"(0040,4002)",General Purpose Performed Procedure Step Status,General​Purpose​Performed​Procedure​Step​Status,CS,1
+"(0040,4003)",General Purpose Scheduled Procedure Step Priority,General​Purpose​Scheduled​Procedure​Step​Priority,CS,1
+"(0040,4006)",Multiple Copies Flag,Multiple​Copies​Flag,CS,1
+"(0040,4020)",Input Availability Flag,Input​Availability​Flag,CS,1
+"(0040,4040)",Raw Data Handling,Raw​Data​Handling,CS,1
+"(0040,4041)",Input Readiness State,Input​Readiness​State,CS,1
+"(0040,8303)",Entrance Dose Derivation,Entrance​Dose​Derivation,CS,1
+"(0040,A007)",Findings Flag (Trial),Findings​Flag​Trial,CS,1
+"(0040,A010)",Relationship Type,Relationship​Type,CS,1
+"(0040,A040)",Value Type,Value​Type,CS,1
+"(0040,A050)",Continuity Of Content,Continuity​Of​Content,CS,1
+"(0040,A057)",Urgency or Priority Alerts (Trial),Urgency​Or​Priority​Alerts​Trial,CS,1-n
+"(0040,A080)",Participation Type,Participation​Type,CS,1
+"(0040,A084)",Observer Type,Observer​Type,CS,1
+"(0040,A125)",Report Status ID (Trial),Report​Status​ID​Trial,CS,2
+"(0040,A130)",Temporal Range Type,Temporal​Range​Type,CS,1
+"(0040,A173)",Referenced Observation Class (Trial),Referenced​Observation​Class​Trial,CS,1
+"(0040,A174)",Referenced Object Observation Class (Trial),Referenced​Object​Observation​Class​Trial,CS,1
+"(0040,A194)",Measurement Automation (Trial),Measurement​Automation​Trial,CS,1
+"(0040,A290)",Coordinates Set Geometric Type (Trial),Coordinates​Set​Geometric​Type​Trial,CS,1
+"(0040,A403)",Observation Subject Class (Trial),Observation​Subject​Class​Trial,CS,1
+"(0040,A491)",Completion Flag,Completion​Flag,CS,1
+"(0040,A493)",Verification Flag,Verification​Flag,CS,1
+"(0040,A494)",Archive Requested,Archive​Requested,CS,1
+"(0040,A496)",Preliminary Flag,Preliminary​Flag,CS,1
+"(0040,A600)",Observation Subject Context Flag (Trial),Observation​Subject​Context​Flag​Trial,CS,1
+"(0040,A601)",Observer Context Flag (Trial),Observer​Context​Flag​Trial,CS,1
+"(0040,A603)",Procedure Context Flag (Trial),Procedure​Context​Flag​Trial,CS,1
+"(0040,DB00)",Template Identifier,Template​Identifier,CS,1
+"(0040,DB0B)",Template Extension Flag,Template​Extension​Flag,CS,1
+"(0040,E020)",Type of Instances,Type​Of​Instances,CS,1
+"(0044,0002)",Substance Administration Approval,Substance​Administration​Approval,CS,1
+"(0046,0032)",Horizontal Prism Base,Horizontal​Prism​Base,CS,1
+"(0046,0036)",Vertical Prism Base,Vertical​Prism​Base,CS,1
+"(0046,0038)",Lens Segment Type,Lens​Segment​Type,CS,1
+"(0046,0092)",Background Color,Background​Color,CS,1
+"(0046,0094)",Optotype,Optotype,CS,1
+"(0046,0095)",Optotype Presentation,Optotype​Presentation,CS,1
+"(0046,0125)",Viewing Distance Type,Viewing​Distance​Type,CS,1
+"(0046,0201)",Corneal Topography Surface,Corneal​Topography​Surface,CS,1
+"(0046,0242)",Corneal Topography Map Quality Evaluation,Corneal​Topography​Map​Quality​Evaluation,CS,1
+"(0046,0248)",Corneal Point Estimated,Corneal​Point​Estimated,CS,1
+"(0048,0010)",Specimen Label in Image,Specimen​Label​In​Image,CS,1
+"(0048,0011)",Focus Method,Focus​Method,CS,1
+"(0048,0012)",Extended Depth of Field,Extended​Depth​Of​Field,CS,1
+"(0048,0114)",Confocal Mode,Confocal​Mode,CS,1
+"(0048,0115)",Tissue Location,Tissue​Location,CS,1
+"(0048,0301)",Pixel Origin Interpretation,Pixel​Origin​Interpretation,CS,1
+"(0050,0004)",Calibration Image,Calibration​Image,CS,1
+"(0050,0017)",Device Diameter Units,Device​Diameter​Units,CS,1
+"(0050,001A)",Container Component Material,Container​Component​Material,CS,1
+"(0052,0006)",OCT Acquisition Domain,OCT​Acquisition​Domain,CS,1
+"(0052,0026)",OCT Z Offset Applied,OCTZ​Offset​Applied,CS,1
+"(0052,0031)",Catheter Direction of Rotation,Catheter​Direction​Of​Rotation,CS,1
+"(0052,0039)",Interpolation Type,Interpolation​Type,CS,1
+"(0052,003A)",Refractive Index Applied,Refractive​Index​Applied,CS,1
+"(0054,0039)",Phase Description,Phase​Description,CS,1
+"(0054,0202)",Type of Detector Motion,Type​Of​Detector​Motion,CS,1
+"(0054,0500)",Slice Progression Direction,Slice​Progression​Direction,CS,1
+"(0054,0501)",Scan Progression Direction,Scan​Progression​Direction,CS,1
+"(0054,1000)",Series Type,Series​Type,CS,2
+"(0054,1001)",Units,Units,CS,1
+"(0054,1002)",Counts Source,Counts​Source,CS,1
+"(0054,1004)",Reprojection Method,Reprojection​Method,CS,1
+"(0054,1006)",SUV Type,SUV​Type,CS,1
+"(0054,1100)",Randoms Correction Method,Randoms​Correction​Method,CS,1
+"(0054,1102)",Decay Correction,Decay​Correction,CS,1
+"(0054,1220)",Secondary Counts Type,Secondary​Counts​Type,CS,1-n
+"(0054,1400)",Counts Included,Counts​Included,CS,1-n
+"(0054,1401)",Dead Time Correction Flag,Dead​Time​Correction​Flag,CS,1
+"(0062,0001)",Segmentation Type,Segmentation​Type,CS,1
+"(0062,0008)",Segment Algorithm Type,Segment​Algorithm​Type,CS,1
+"(0062,0010)",Segmentation Fractional Type,Segmentation​Fractional​Type,CS,1
+"(0062,0013)",Segments Overlap,Segments​Overlap,CS,1
+"(0066,0009)",Surface Processing,Surface​Processing,CS,1
+"(0066,000D)",Recommended Presentation Type,Recommended​Presentation​Type,CS,1
+"(0066,000E)",Finite Volume,Finite​Volume,CS,1
+"(0066,0010)",Manifold,Manifold,CS,1
+"(0068,6223)",Implant Type,Implant​Type,CS,1
+"(0068,6420)",Degree of Freedom Type,Degree​Of​Freedom​Type,CS,1
+"(0068,7001)",Model Modification,Model​Modification,CS,1
+"(0068,7002)",Model Mirroring,Model​Mirroring,CS,1
+"(006A,0001)",Annotation Coordinate Type,Annotation​Coordinate​Type,CS,1
+"(006A,0007)",Annotation Group Generation Type,Annotation​Group​Generation​Type,CS,1
+"(006A,000D)",Annotation Applies to All Optical Paths,Annotation​Applies​To​All​Optical​Paths,CS,1
+"(006A,000F)",Annotation Applies to All Z Planes,Annotation​Applies​To​All​Z​Planes,CS,1
+"(0070,0002)",Graphic Layer,Graphic​Layer,CS,1
+"(0070,0003)",Bounding Box Annotation Units,Bounding​Box​Annotation​Units,CS,1
+"(0070,0004)",Anchor Point Annotation Units,Anchor​Point​Annotation​Units,CS,1
+"(0070,0005)",Graphic Annotation Units,Graphic​Annotation​Units,CS,1
+"(0070,0012)",Bounding Box Text Horizontal Justification,Bounding​Box​Text​Horizontal​Justification,CS,1
+"(0070,0015)",Anchor Point Visibility,Anchor​Point​Visibility,CS,1
+"(0070,0023)",Graphic Type,Graphic​Type,CS,1
+"(0070,0024)",Graphic Filled,Graphic​Filled,CS,1
+"(0070,0041)",Image Horizontal Flip,Image​Horizontal​Flip,CS,1
+"(0070,0080)",Content Label,Content​Label,CS,1
+"(0070,0100)",Presentation Size Mode,Presentation​Size​Mode,CS,1
+"(0070,0228)",Font Name Type,Font​Name​Type,CS,1
+"(0070,0242)",Horizontal Alignment,Horizontal​Alignment,CS,1
+"(0070,0243)",Vertical Alignment,Vertical​Alignment,CS,1
+"(0070,0244)",Shadow Style,Shadow​Style,CS,1
+"(0070,0248)",Underlined,Underlined,CS,1
+"(0070,0249)",Bold,Bold,CS,1
+"(0070,0250)",Italic,Italic,CS,1
+"(0070,0254)",Line Dashing Style,Line​Dashing​Style,CS,1
+"(0070,0257)",Fill Mode,Fill​Mode,CS,1
+"(0070,0274)",Tick Alignment,Tick​Alignment,CS,1
+"(0070,0278)",Show Tick Label,Show​Tick​Label,CS,1
+"(0070,0279)",Tick Label Alignment,Tick​Label​Alignment,CS,1
+"(0070,0282)",Compound Graphic Units,Compound​Graphic​Units,CS,1
+"(0070,0294)",Compound Graphic Type,Compound​Graphic​Type,CS,1
+"(0070,0306)",Shape Type,Shape​Type,CS,1
+"(0070,030C)",Frame of Reference Transformation Matrix Type,Frame​Of​Reference​Transformation​Matrix​Type,CS,1
+"(0070,0405)",Blending Position,Blending​Position,CS,1
+"(0070,1202)",Presentation Input Type,Presentation​Input​Type,CS,1
+"(0070,1204)",Crop,Crop,CS,1
+"(0070,1206)",Compositing Method,Compositing​Method,CS,1
+"(0070,1208)",Image Volume Geometry,Image​Volume​Geometry,CS,1
+"(0070,120B)",Global Crop,Global​Crop,CS,1
+"(0070,120D)",Rendering Method,Rendering​Method,CS,1
+"(0070,1302)",Volume Cropping Method,Volume​Cropping​Method,CS,1
+"(0070,1501)",Multi-Planar Reconstruction Style,Multi​Planar​Reconstruction​Style,CS,1
+"(0070,1502)",MPR Thickness Type,MPRThickness​Type,CS,1
+"(0070,1602)",Render Projection,Render​Projection,CS,1
+"(0070,1701)",Shading Style,Shading​Style,CS,1
+"(0070,1802)",Component Type,Component​Type,CS,1
+"(0070,1907)",Annotation Clipping,Annotation​Clipping,CS,1
+"(0070,1A01)",Presentation Animation Style,Presentation​Animation​Style,CS,1
+"(0070,1B06)",Blending Mode,Blending​Mode,CS,1
+"(0070,1B07)",Time Series Blending,Time​Series​Blending,CS,1
+"(0070,1B08)",Geometry for Display,Geometry​For​Display,CS,1
+"(0070,1B13)",Threshold Type,Threshold​Type,CS,1
+"(0072,0006)",Hanging Protocol Level,Hanging​Protocol​Level,CS,1
+"(0072,0024)",Image Set Selector Usage Flag,Image​Set​Selector​Usage​Flag,CS,1
+"(0072,0034)",Image Set Selector Category,Image​Set​Selector​Category,CS,1
+"(0072,003A)",Relative Time Units,Relative​Time​Units,CS,1
+"(0072,0050)",Selector Attribute VR,Selector​Attribute​VR,CS,1
+"(0072,0062)",Selector CS Value,Selector​CS​Value,CS,1-n
+"(0072,0208)",Partial Data Display Handling,Partial​Data​Display​Handling,CS,1
+"(0072,0304)",Image Box Layout Type,Image​Box​Layout​Type,CS,1
+"(0072,0310)",Image Box Scroll Direction,Image​Box​Scroll​Direction,CS,1
+"(0072,0312)",Image Box Small Scroll Type,Image​Box​Small​Scroll​Type,CS,1
+"(0072,0316)",Image Box Large Scroll Type,Image​Box​Large​Scroll​Type,CS,1
+"(0072,0402)",Filter-by Category,Filter​By​Category,CS,1
+"(0072,0404)",Filter-by Attribute Presence,Filter​By​Attribute​Presence,CS,1
+"(0072,0406)",Filter-by Operator,Filter​By​Operator,CS,1
+"(0072,0434)",Type of Synchronization,Type​Of​Synchronization,CS,1
+"(0072,0500)",Blending Operation Type,Blending​Operation​Type,CS,1
+"(0072,0510)",Reformatting Operation Type,Reformatting​Operation​Type,CS,1
+"(0072,0516)",Reformatting Operation Initial View Direction,Reformatting​Operation​Initial​View​Direction,CS,1
+"(0072,0520)",3D Rendering Type,Three​D​Rendering​Type,CS,1-n
+"(0072,0602)",Sort-by Category,Sort​By​Category,CS,1
+"(0072,0604)",Sorting Direction,Sorting​Direction,CS,1
+"(0072,0700)",Display Set Patient Orientation,Display​Set​Patient​Orientation,CS,2
+"(0072,0702)",VOI Type,VOI​Type,CS,1
+"(0072,0704)",Pseudo-Color Type,Pseudo​Color​Type,CS,1
+"(0072,0706)",Show Grayscale Inverted,Show​Grayscale​Inverted,CS,1
+"(0072,0710)",Show Image True Size Flag,Show​Image​True​Size​Flag,CS,1
+"(0072,0712)",Show Graphic Annotation Flag,Show​Graphic​Annotation​Flag,CS,1
+"(0072,0714)",Show Patient Demographics Flag,Show​Patient​Demographics​Flag,CS,1
+"(0072,0716)",Show Acquisition Techniques Flag,Show​Acquisition​Techniques​Flag,CS,1
+"(0072,0717)",Display Set Horizontal Justification,Display​Set​Horizontal​Justification,CS,1
+"(0072,0718)",Display Set Vertical Justification,Display​Set​Vertical​Justification,CS,1
+"(0074,1000)",Procedure Step State,Procedure​Step​State,CS,1
+"(0074,1022)",Beam Task Type,Beam​Task​Type,CS,1
+"(0074,1025)",Autosequence Flag,Autosequence​Flag,CS,1
+"(0074,1032)",Verification Image Timing,Verification​Image​Timing,CS,1
+"(0074,1034)",Double Exposure Flag,Double​Exposure​Flag,CS,1
+"(0074,1036)",Double Exposure Ordering,Double​Exposure​Ordering,CS,1
+"(0074,1200)",Scheduled Procedure Step Priority,Scheduled​Procedure​Step​Priority,CS,1
+"(0074,1242)",SCP Status,SCP​Status,CS,1
+"(0074,1244)",Subscription List Status,Subscription​List​Status,CS,1
+"(0074,1246)",Unified Procedure Step List Status,Unified​Procedure​Step​List​Status,CS,1
+"(0074,140A)",Reason for Channel Omission,Reason​For​Channel​Omission,CS,1
+"(0076,000A)",Implant Assembly Template Type,Implant​Assembly​Template​Type,CS,1
+"(0076,0036)",Exclusive Component Type,Exclusive​Component​Type,CS,1
+"(0076,0038)",Mandatory Component Type,Mandatory​Component​Type,CS,1
+"(0082,0001)",Assessment Summary,Assessment​Summary,CS,1
+"(0082,0008)",Observation Significance,Observation​Significance,CS,1
+"(0082,0032)",Constraint Type,Constraint​Type,CS,1
+"(0082,0036)",Constraint Violation Significance,Constraint​Violation​Significance,CS,1
+"(0082,0038)",Modifiable Constraint Flag,Modifiable​Constraint​Flag,CS,1
+"(0100,0410)",SOP Instance Status,SOP​Instance​Status,CS,1
+"(0400,0015)",MAC Algorithm,MAC​Algorithm,CS,1
+"(0400,0110)",Certificate Type,Certificate​Type,CS,1
+"(0400,0305)",Certified Timestamp Type,Certified​Timestamp​Type,CS,1
+"(0400,0565)",Reason for the Attribute Modification,Reason​For​The​Attribute​Modification,CS,1
+"(0400,0600)",Instance Origin Status,Instance​Origin​Status,CS,1
+"(2000,0020)",Print Priority,Print​Priority,CS,1
+"(2000,0030)",Medium Type,Medium​Type,CS,1
+"(2000,0040)",Film Destination,Film​Destination,CS,1
+"(2000,0062)",Color Image Printing Flag,Color​Image​Printing​Flag,CS,1
+"(2000,0063)",Collation Flag,Collation​Flag,CS,1
+"(2000,0065)",Annotation Flag,Annotation​Flag,CS,1
+"(2000,0067)",Image Overlay Flag,Image​Overlay​Flag,CS,1
+"(2000,0069)",Presentation LUT Flag,Presentation​LUT​Flag,CS,1
+"(2000,006A)",Image Box Presentation LUT Flag,Image​Box​Presentation​LUT​Flag,CS,1
+"(2010,0030)",Annotation Display Format ID,Annotation​Display​Format​ID,CS,1
+"(2010,0040)",Film Orientation,Film​Orientation,CS,1
+"(2010,0050)",Film Size ID,Film​Size​ID,CS,1
+"(2010,0052)",Printer Resolution ID,Printer​Resolution​ID,CS,1
+"(2010,0054)",Default Printer Resolution ID,Default​Printer​Resolution​ID,CS,1
+"(2010,0060)",Magnification Type,Magnification​Type,CS,1
+"(2010,0080)",Smoothing Type,Smoothing​Type,CS,1
+"(2010,00A6)",Default Magnification Type,Default​Magnification​Type,CS,1
+"(2010,00A7)",Other Magnification Types Available,Other​Magnification​Types​Available,CS,1-n
+"(2010,00A8)",Default Smoothing Type,Default​Smoothing​Type,CS,1
+"(2010,00A9)",Other Smoothing Types Available,Other​Smoothing​Types​Available,CS,1-n
+"(2010,0100)",Border Density,Border​Density,CS,1
+"(2010,0110)",Empty Image Density,Empty​Image​Density,CS,1
+"(2010,0140)",Trim,Trim,CS,1
+"(2020,0020)",Polarity,Polarity,CS,1
+"(2020,0040)",Requested Decimate/Crop Behavior,Requested​Decimate​Crop​Behavior,CS,1
+"(2020,0050)",Requested Resolution ID,Requested​Resolution​ID,CS,1
+"(2020,00A0)",Requested Image Size Flag,Requested​Image​Size​Flag,CS,1
+"(2020,00A2)",Decimate/Crop Result,Decimate​Crop​Result,CS,1
+"(2040,0060)",Overlay Magnification Type,Overlay​Magnification​Type,CS,1
+"(2040,0070)",Overlay Smoothing Type,Overlay​Smoothing​Type,CS,1
+"(2040,0072)",Overlay or Image Magnification,Overlay​Or​Image​Magnification,CS,1
+"(2040,0080)",Overlay Foreground Density,Overlay​Foreground​Density,CS,1
+"(2040,0082)",Overlay Background Density,Overlay​Background​Density,CS,1
+"(2040,0090)",Overlay Mode,Overlay​Mode,CS,1
+"(2040,0100)",Threshold Density,Threshold​Density,CS,1
+"(2050,0020)",Presentation LUT Shape,Presentation​LUT​Shape,CS,1
+"(2100,0020)",Execution Status,Execution​Status,CS,1
+"(2100,0030)",Execution Status Info,Execution​Status​Info,CS,1
+"(2110,0010)",Printer Status,Printer​Status,CS,1
+"(2110,0020)",Printer Status Info,Printer​Status​Info,CS,1
+"(2120,0010)",Queue Status,Queue​Status,CS,1
+"(2200,0001)",Label Using Information Extracted From Instances,Label​Using​Information​Extracted​From​Instances,CS,1
+"(2200,0003)",Label Style Selection,Label​Style​Selection,CS,1
+"(2200,0006)",Barcode Symbology,Barcode​Symbology,CS,1
+"(2200,0007)",Allow Media Splitting,Allow​Media​Splitting,CS,1
+"(2200,0008)",Include Non-DICOM Objects,Include​Non​DICOM​Objects,CS,1
+"(2200,0009)",Include Display Application,Include​Display​Application,CS,1
+"(2200,000A)",Preserve Composite Instances After Media Creation,Preserve​Composite​Instances​After​Media​Creation,CS,1
+"(2200,000F)",Allow Lossy Compression,Allow​Lossy​Compression,CS,1
+"(2200,0020)",Request Priority,Request​Priority,CS,1
+"(3002,000A)",Reported Values Origin,Reported​Values​Origin,CS,1
+"(3002,000C)",RT Image Plane,RT​Image​Plane,CS,1
+"(3002,0041)",Fluence Data Source,Fluence​Data​Source,CS,1
+"(3002,0051)",Fluence Mode,Fluence​Mode,CS,1
+"(3002,0105)",Beam Modifier Coordinates Presence Flag,BeamModifierCoordinatesPresenceFlag,CS,1
+"(3002,0111)",Imaging Source Location Specification Type,Imaging​Source​Location​Specification​Type,CS,1
+"(3002,0115)",Imaging Aperture Specification Type,Imaging​Aperture​Specification​Type,CS,1
+"(3002,0129)",Acquisition Signal Type,Acquisition​Signal​Type,CS,1
+"(3002,012A)",Acquisition Method,Acquisition​Method,CS,1
+"(3002,012E)",Scan Arc Type,Scan​Arc​Type,CS,1
+"(3002,012F)",Detector Positioning Type,Detector​Positioning​Type,CS,1
+"(3004,0001)",DVH Type,DVH​Type,CS,1
+"(3004,0002)",Dose Units,Dose​Units,CS,1
+"(3004,0004)",Dose Type,Dose​Type,CS,1
+"(3004,0005)",Spatial Transform of Dose,Spatial​Transform​Of​Dose,CS,1
+"(3004,000A)",Dose Summation Type,Dose​Summation​Type,CS,1
+"(3004,0014)",Tissue Heterogeneity Correction,Tissue​Heterogeneity​Correction,CS,1-3
+"(3004,0054)",DVH Volume Units,DVH​Volume​Units,CS,1
+"(3004,0062)",DVH ROI Contribution Type,DVHROI​Contribution​Type,CS,1
+"(3006,0033)",RT ROI Relationship,RTROI​Relationship,CS,1
+"(3006,0036)",ROI Generation Algorithm,ROI​Generation​Algorithm,CS,1
+"(3006,0042)",Contour Geometric Type,Contour​Geometric​Type,CS,1
+"(3006,00A4)",RT ROI Interpreted Type,RTROI​Interpreted​Type,CS,1
+"(3006,00B2)",ROI Physical Property,ROI​Physical​Property,CS,1
+"(3006,00C4)",Frame of Reference Transformation Type,Frame​Of​Reference​Transformation​Type,CS,1
+"(3008,0014)",Measured Dose Type,Measured​Dose​Type,CS,1
+"(3008,002A)",Treatment Termination Status,Treatment​Termination​Status,CS,1
+"(3008,002C)",Treatment Verification Status,Treatment​Verification​Status,CS,1
+"(3008,00A3)",Enhanced RT Beam Limiting Device Definition Flag,Enhanced​RT​Beam​Limiting​Device​Definition​Flag,CS,1
+"(3008,0116)",Application Setup Check,Application​Setup​Check,CS,1
+"(3008,0200)",Current Treatment Status,Current​Treatment​Status,CS,1
+"(3008,0224)",Fraction Group Type,Fraction​Group​Type,CS,1
+"(3008,0230)",Beam Stopper Position,Beam​Stopper​Position,CS,1
+"(300A,000A)",Plan Intent,Plan​Intent,CS,1
+"(300A,000C)",RT Plan Geometry,RT​Plan​Geometry,CS,1
+"(300A,0014)",Dose Reference Structure Type,Dose​Reference​Structure​Type,CS,1
+"(300A,0015)",Nominal Beam Energy Unit,Nominal​Beam​Energy​Unit,CS,1
+"(300A,0020)",Dose Reference Type,Dose​Reference​Type,CS,1
+"(300A,0055)",RT Plan Relationship,RT​Plan​Relationship,CS,1
+"(300A,008B)",Beam Dose Meaning,Beam​Dose​Meaning,CS,1
+"(300A,0090)",Beam Dose Type,Beam​Dose​Type,CS,1
+"(300A,0092)",Alternate Beam Dose Type,Alternate​Beam​Dose​Type,CS,1
+"(300A,0093)",Depth Value Averaging Flag,Depth​Value​Averaging​Flag,CS,1
+"(300A,00B3)",Primary Dosimeter Unit,Primary​Dosimeter​Unit,CS,1
+"(300A,00B8)",RT Beam Limiting Device Type,RT​Beam​Limiting​Device​Type,CS,1
+"(300A,00C4)",Beam Type,Beam​Type,CS,1
+"(300A,00C6)",Radiation Type,Radiation​Type,CS,1
+"(300A,00C7)",High-Dose Technique Type,High​Dose​Technique​Type,CS,1
+"(300A,00CE)",Treatment Delivery Type,Treatment​Delivery​Type,CS,1
+"(300A,00D3)",Wedge Type,Wedge​Type,CS,1
+"(300A,00EE)",Compensator Type,Compensator​Type,CS,1
+"(300A,00F8)",Block Type,Block​Type,CS,1
+"(300A,00FA)",Block Divergence,Block​Divergence,CS,1
+"(300A,00FB)",Block Mounting Position,Block​Mounting​Position,CS,1
+"(300A,0109)",Applicator Type,Applicator​Type,CS,1
+"(300A,0118)",Wedge Position,Wedge​Position,CS,1
+"(300A,011F)",Gantry Rotation Direction,Gantry​Rotation​Direction,CS,1
+"(300A,0121)",Beam Limiting Device Rotation Direction,Beam​Limiting​Device​Rotation​Direction,CS,1
+"(300A,0123)",Patient Support Rotation Direction,Patient​Support​Rotation​Direction,CS,1
+"(300A,0126)",Table Top Eccentric Rotation Direction,Table​Top​Eccentric​Rotation​Direction,CS,1
+"(300A,0142)",Table Top Pitch Rotation Direction,Table​Top​Pitch​Rotation​Direction,CS,1
+"(300A,0146)",Table Top Roll Rotation Direction,Table​Top​Roll​Rotation​Direction,CS,1
+"(300A,014C)",Gantry Pitch Rotation Direction,Gantry​Pitch​Rotation​Direction,CS,1
+"(300A,0150)",Fixation Eye,Fixation​Eye,CS,1
+"(300A,0192)",Fixation Device Type,Fixation​Device​Type,CS,1
+"(300A,01A2)",Shielding Device Type,Shielding​Device​Type,CS,1
+"(300A,01B0)",Setup Technique,Setup​Technique,CS,1
+"(300A,01B6)",Setup Device Type,Setup​Device​Type,CS,1
+"(300A,0200)",Brachy Treatment Technique,Brachy​Treatment​Technique,CS,1
+"(300A,0202)",Brachy Treatment Type,Brachy​Treatment​Type,CS,1
+"(300A,0214)",Source Type,Source​Type,CS,1
+"(300A,0229)",Source Strength Units,Source​Strength​Units,CS,1
+"(300A,0232)",Application Setup Type,Application​Setup​Type,CS,1
+"(300A,0264)",Brachy Accessory Device Type,Brachy​Accessory​Device​Type,CS,1
+"(300A,0288)",Source Movement Type,Source​Movement​Type,CS,1
+"(300A,0292)",Source Applicator Type,Source​Applicator​Type,CS,1
+"(300A,02E0)",Compensator Divergence,Compensator​Divergence,CS,1
+"(300A,02E1)",Compensator Mounting Position,Compensator​Mounting​Position,CS,1
+"(300A,0308)",Scan Mode,Scan​Mode,CS,1
+"(300A,0309)",Modulated Scan Mode Type,Modulated​Scan​Mode​Type,CS,1
+"(300A,0320)",Range Shifter Type,Range​Shifter​Type,CS,1
+"(300A,0338)",Lateral Spreading Device Type,Lateral​Spreading​Device​Type,CS,1
+"(300A,0348)",Range Modulator Type,Range​Modulator​Type,CS,1
+"(300A,0350)",Patient Support Type,Patient​Support​Type,CS,1
+"(300A,0393)",Scan Spot Reordered,Scan​Spot​Reordered,CS,1
+"(300A,0395)",Scan Spot Reordering Allowed,Scan​Spot​Reordering​Allowed,CS,1
+"(300A,0423)",General Accessory Type,General​Accessory​Type,CS,1
+"(300A,0432)",Applicator Aperture Shape,Applicator​Aperture​Shape,CS,1
+"(300A,0451)",Device Motion Execution Mode,Device​Motion​Execution​Mode,CS,1
+"(300A,0452)",Device Motion Observation Mode,Device​Motion​Observation​Mode,CS,1
+"(300A,0511)",Delivered Reference Dose Definition,Delivered​Reference​Dose​Definition,CS,1
+"(300A,0512)",Reference Dose Definition,Reference​Dose​Definition,CS,1
+"(300A,060F)",RT Accessory Holder Slot Existence Flag,RTAccessory​Holder​Slot​Existence​Flag,CS,1
+"(300A,061A)",Reference Dose Type,Reference​Dose​Type,CS,1
+"(300A,061B)",Primary Dose Value Indicator,Primary​Dose​Value​Indicator,CS,1
+"(300A,061D)",Dose Value Purpose,Dose​Value​Purpose,CS,1-n
+"(300A,0637)",RT Radiation Set Intent,RTRadiation​Set​Intent,CS,1
+"(300A,0638)",RT Radiation Physical and Geometric Content Detail Flag,RTRadiation​Physical​And​Geometric​Content​Detail​Flag,CS,1
+"(300A,0639)",RT Record Flag,RTRecord​Flag,CS,1
+"(300A,064E)",Parallel RT Beam Delimiter Opening Mode,Parallel​RTBeam​Delimiter​Opening​Mode,CS,1
+"(300A,064F)",Parallel RT Beam Delimiter Leaf Mounting Side,Parallel​RTBeam​Delimiter​Leaf​Mounting​Side,CS,1-n
+"(300A,065C)",Patient Support Position Specification Method,Patient​Support​Position​Specification​Method,CS,1
+"(300A,0663)",Compensator Map Orientation,Compensator​Map​Orientation,CS,1
+"(300A,066C)",Block Orientation,Block​Orientation,CS,1
+"(300A,068B)",Dose Value Interpretation,Dose​Value​Interpretation,CS,1
+"(300A,0701)",RT Radiation Usage,RT​Radiation​Usage,CS,1
+"(300A,0706)",RT Treatment Fraction Completion Status,RT​Treatment​Fraction​Completion​Status,CS,1
+"(300A,0707)",RT Radiation Set Usage,RT​Radiation​Set​Usage,CS,1
+"(300A,0708)",Treatment Delivery Continuation Flag,Treatment​Delivery​Continuation​Flag,CS,1
+"(300A,0709)",Treatment Record Content Origin,Treatment​Record​Content​Origin,CS,1
+"(300A,0714)",RT Treatment Termination Status,RT​Treatment​Termination​Status,CS,1
+"(300A,0723)",Starting Meterset Value Known Flag,Starting​Meterset​ValueK​nown​Flag,CS,1
+"(300A,0732)",Treatment Tolerance Violation Category,Treatment​Tolerance​Violation​Category,CS,1
+"(300A,079E)",RT Radiation Set Delivery Usage,RT​Radiation​Set​Delivery​Usage,CS,1
+"(300C,0112)",Reason for Omission,Reason​For​Omission,CS,1
+"(300C,0123)",Dose Calibration Conditions Verified Flag,Dose​Calibration​Conditions​Verified​Flag,CS,1
+"(300C,0126)",Beam Hold Transition,Beam​Hold​Transition,CS,1
+"(300C,0129)",Beam Hold Transition Trigger Source,Beam​Hold​Transition​Trigger​Source,CS,1
+"(300E,0002)",Approval Status,Approval​Status,CS,1
+"(3010,0002)",Radiobiological Dose Effect Flag,Radiobiological​Dose​Effect​Flag,CS,1
+"(3010,000E)",Conceptual Volume Combination Flag,Conceptual​Volume​Combination​Flag,CS,1
+"(3010,0010)",Conceptual Volume Segmentation Defined Flag,Conceptual​Volume​Segmentation​Defined​Flag,CS,1
+"(3010,001C)",Device Alternate Identifier Type,Device​Alternate​Identifier​Type,CS,1
+"(3010,0045)",RT Treatment Phase Intent Presence Flag,RTTreatment​Phase​Intent​Presence​Flag,CS,1
+"(3010,0046)",Radiotherapy Treatment Type,Radiotherapy​Treatment​Type,CS,1
+"(3010,0047)",Teletherapy Radiation Type,Teletherapy​Radiation​Type,CS,1-n
+"(3010,0048)",Brachytherapy Source Type,Brachytherapy​Source​Type,CS,1-n
+"(3010,004F)",Temporal Relationship Interval Anchor,Temporal​Relationship​Interval​Anchor,CS,1
+"(3010,0059)",RT Treatment Intent Type,RTTreatment​Intent​Type,CS,1
+"(3010,0063)",Dosimetric Objective Evaluation Scope,Dosimetric​Objective​Evaluation​Scope,CS,1
+"(3010,0068)",Conceptual Volume Blocking Constraint,Conceptual​Volume​Blocking​Constraint,CS,1
+"(3010,0073)",Absolute Dosimetric Objective Flag,Absolute​Dosimetric​Objective​Flag,CS,1
+"(3010,0075)",Dosimetric Objective Purpose,Dosimetric​Objective​Purpose,CS,1
+"(3010,0083)",Fraction-Based Relationship Interval Anchor,Fraction​Based​Relationship​Interval​Anchor,CS,1
+"(3010,0090)",Robotic Base Location Indicator,Robotic​BaseLocation​Indicator,CS,1
+"(4008,00FF)",Report Production Status (Trial),Report​Production​Status​Trial,CS,1
+"(4008,0210)",Interpretation Type ID,Interpretation​Type​ID,CS,1
+"(4008,0212)",Interpretation Status ID,Interpretation​Status​ID,CS,1
+"(4010,0001)",Low Energy Detectors,Low​Energy​Detectors,CS,1
+"(4010,0002)",High Energy Detectors,High​Energy​Detectors,CS,1
+"(4010,1008)",Gantry Type,Gantry​Type,CS,1
+"(4010,1009)",OOI Owner Type,OOI​Owner​Type,CS,1
+"(4010,1012)",Threat Category,Threat​Category,CS,1
+"(4010,1014)",ATD Ability Assessment,ATD​Ability​Assessment,CS,1
+"(4010,1015)",ATD Assessment Flag,ATD​Assessment​Flag,CS,1
+"(4010,1020)",Route Segment Location ID Type,Route​Segment​Location​ID​Type,CS,1
+"(4010,1021)",Abort Reason,Abort​Reason,CS,1-n
+"(4010,1024)",Abort Flag,Abort​Flag,CS,1
+"(4010,1027)",TDR Type,TDR​Type,CS,1
+"(4010,1028)",International Route Segment,International​Route​Segment,CS,1
+"(4010,1031)",Alarm Decision,Alarm​Decision,CS,1
+"(4010,1039)",TIP Type,TIP​Type,CS,1
+"(4010,103A)",DICOS Version,DICOS​Version,CS,1
+"(4010,1042)",OOI Type,OOI​Type,CS,1
+"(4010,1044)",Acquisition Status,Acquisition​Status,CS,1
+"(4010,1046)",Phantom Type,Phantom​Type,CS,1
+"(4010,1048)",Scan Type,Scan​Type,CS,1
+"(4010,1056)",Inbound Arrival Type,Inbound​Arrival​Type,CS,1
+"(4010,1059)",Carrier ID Assigning Authority,Carrier​ID​Assigning​Authority,CS,1
+"(4010,1067)",Transport Classification,Transport​Classification,CS,1
+"(4010,106D)",Additional Screening Performed,Additional​Screening​Performed,CS,1
+"(4010,106E)",Additional Inspection Selection Criteria,Additional​Inspection​Selection​Criteria,CS,1
+"(4010,1070)",AIT Device Type,AIT​Device​Type,CS,1
+"(4010,107C)",Inspection Selection Criteria,Inspection​Selection​Criteria,CS,1
+"(5400,1006)",Waveform Sample Interpretation,Waveform​Sample​Interpretation,CS,1
