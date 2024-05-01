@@ -6,3 +6,16 @@ test.txt
 ADNI
 *.log
 ADNI_metadata
+image_series_metadata.pkl
+patient_demo_staging.pkl
+procedure_occurrence_staging.pkl
+image_occurrence_staging.pkl
+DXSUM_PDXCONV_27Apr2024.csv
+MMSE_27Apr2024.csv
+NPI_10Apr2024.csv
+NPIQ_27Apr2024.csv
+PTDEMOG_28Mar2024.csv
+omop_cdm_mi_ext_draft.ipynb
+omop_cdm_mi_ext.ipynb
+dicom_to_omop_tables.ipynb
+dicom_to_omop.ipynb
