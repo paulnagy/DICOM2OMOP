@@ -1,5 +1,6 @@
 # Dicom2OMOP
-This project looks at creating a controlled vocabulary for the DICOM Pt 6 Data Dictionary with a focus on CS code strings in the OMOP vocabulary format and harmonizing common data elements (CDE).
+This project builds on a published work, ["Development of Medical Imaging Data Standardization for Imaging-Based Observational Research: OMOP Common Data Model Extension"](https://pubmed.ncbi.nlm.nih.gov/38315345/). A copy of the full paper can also be found in the files folder.
+This project looks at creating a controlled vocabulary for the DICOM Pt 6 Data Dictionary, focusing on CS code strings in the OMOP vocabulary format and harmonizing common data elements (CDE).
 
 - Create a library that takes a dicom tag
 - - (eg Part 6 0010,0040 Patient Sex)
