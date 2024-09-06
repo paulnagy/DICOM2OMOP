@@ -1,3 +1,8 @@
 ipykernel
 pandas
 pyarrow
+pyodbc
+requests
+pathlib
+urllib3.filepost
+azure.identity
