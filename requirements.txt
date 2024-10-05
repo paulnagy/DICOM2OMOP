@@ -4,5 +4,5 @@ pyarrow
 pyodbc
 requests
 pathlib
-urllib3.filepost
+urllib3
 azure.identity

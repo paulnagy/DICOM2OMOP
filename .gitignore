@@ -26,7 +26,6 @@ openmap_colnames.csv
 DXSUM_diagnosis.csv
 rest_of_dicom_series_07232024.csv
 rest_of_series_07252024.csv
-jhh_dicom_cs_oct_summary.csv
 data_for_GS.csv
 dx_for_omop.csv
 cohort1_volumes_0726.csv
@@ -39,3 +38,4 @@ adni_export.csv
 adni_brain_vol.csv
 inspect_dicom_terminology.ipynb
 OpenMAP
+Others

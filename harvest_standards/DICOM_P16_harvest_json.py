@@ -40,6 +40,6 @@ for file in json_files:
     df_combined = pd.concat([df_combined, df], ignore_index=True)
 
 # Save the combined DataFrame as CSV and Parquet
-df_combined.to_csv('./files/fhir_valuesets.csv', index=False)
+df_combined.to_csv('./files/DICOM Standard/fhir_valuesets.csv', index=False)
 
 print("Files saved: fhir_valuesets.csv")

@@ -1,0 +1,14 @@
+﻿code,description,concept_id,tag_1,tag_2,tag_3
+R,Right,4080761,"(0020,0060)","(0020,0062)",
+L,Left,4300877,"(0020,0060)","(0020,0062)",
+BIPED,BIPED,,"(0010,2210)",,
+QUADRUPED,QUADRUPED,,"(0010,2210)",,
+YES,YES,4188539,"(0028,0300)","(0028,0301)","(0028,0302)"
+NO,NO,4188540,"(0028,0300)","(0028,0301)","(0028,0302)"
+BOTH,BOTH,45883500,"(0028,0300)",,
+IDENTITY,Identity,,"(2050,0020)",,
+INVERSE,Inverse,4114662,"(2050,0020)",,
+U,Unpaired,,"(0020,0062)",,
+B,Both,45883500,"(0020,0062)",,
+00,image has not been subjected to lossy compression,,"(0028,2110)",,
+01,image has been subjected to lossy compression,,"(0028,2110)",,

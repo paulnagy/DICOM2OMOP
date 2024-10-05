@@ -1,0 +1,9 @@
+code,description
+ISO_10918_1,JPEG Lossy Compression[ISO/IEC 10918-1]
+ISO_14495_1,JPEG-LS Near-lossless Compression[ISO/IEC 14495-1]
+ISO_15444_1,JPEG 2000 Irreversible Compression[ISO/IEC 15444-1]
+ISO_15444_15,High-Throughput JPEG 2000 Irreversible Compression[ISO/IEC 15444-15]
+ISO_18181_1,JPEG XL Image Coding System - Part 1 Core Coding System[ISO/IEC 18181-1]
+ISO_13818_2,MPEG2 Compression[ISO/IEC 13818-2]
+ISO_14496_10,MPEG-4 AVC/H.264 Compression[ISO/IEC 14496-10]
+ISO_23008_2,HEVC/H.265 Lossy Compression[ISO/IEC 23008-2]
