@@ -1,281 +1,561 @@
-"vol_concept_id","brain_part"
-2129001000,"SFG_L"
-2129001001,"SFG_R"
-2129001002,"SFG_PFC_L"
-2129001003,"SFG_PFC_R"
-2129001004,"SFG_pole_L"
-2129001005,"SFG_pole_R"
-2129001006,"MFG_L"
-2129001007,"MFG_R"
-2129001008,"MFG_DPFC_L"
-2129001009,"MFG_DPFC_R"
-2129001010,"IFG_opercularis_L"
-2129001011,"IFG_opercularis_R"
-2129001012,"IFG_orbitalis_L"
-2129001013,"IFG_orbitalis_R"
-2129001014,"IFG_triangularis_L"
-2129001015,"IFG_triangularis_R"
-2129001016,"LFOG_L"
-2129001017,"LFOG_R"
-2129001018,"MFOG_L"
-2129001019,"MFOG_R"
-2129001020,"RG_L"
-2129001021,"RG_R"
-2129001022,"PoCG_L"
-2129001023,"PoCG_R"
-2129001024,"PrCG_L"
-2129001025,"PrCG_R"
-2129001026,"SPG_L"
-2129001027,"SPG_R"
-2129001028,"SMG_L"
-2129001029,"SMG_R"
-2129001030,"AG_L"
-2129001031,"AG_R"
-2129001032,"PrCu_L"
-2129001033,"PrCu_R"
-2129001034,"STG_L"
-2129001035,"STG_R"
-2129001036,"STG_pole_L"
-2129001037,"STG_pole_R"
-2129001038,"MTG_L"
-2129001039,"MTG_R"
-2129001040,"MTG_pole_L"
-2129001041,"MTG_pole_R"
-2129001042,"ITG_L"
-2129001043,"ITG_R"
-2129001044,"PHG_L"
-2129001045,"PHG_R"
-2129001046,"ENT_L"
-2129001047,"ENT_R"
-2129001048,"FuG_L"
-2129001049,"FuG_R"
-2129001050,"SOG_L"
-2129001051,"SOG_R"
-2129001052,"MOG_L"
-2129001053,"MOG_R"
-2129001054,"IOG_L"
-2129001055,"IOG_R"
-2129001056,"Cu_L"
-2129001057,"Cu_R"
-2129001058,"LG_L"
-2129001059,"LG_R"
-2129001060,"rostral_ACC_L"
-2129001061,"rostral_ACC_R"
-2129001062,"subcallosal_ACC_L"
-2129001063,"subcallosal_ACC_R"
-2129001064,"subgenual_ACC_L"
-2129001065,"subgenual_ACC_R"
-2129001066,"dorsal_ACC_L"
-2129001067,"dorsal_ACC_R"
-2129001068,"PCC_L"
-2129001069,"PCC_R"
-2129001070,"Insula_L"
-2129001071,"Insula_R"
-2129001072,"Amyg_L"
-2129001073,"Amyg_R"
-2129001074,"Hippo_L"
-2129001075,"Hippo_R"
-2129001076,"Caud_L"
-2129001077,"Caud_R"
-2129001078,"Put_L"
-2129001079,"Put_R"
-2129001080,"GP_L"
-2129001081,"GP_R"
-2129001082,"Thalamus_L"
-2129001083,"Thalamus_R"
-2129001084,"HypoThalamus_L"
-2129001085,"HypoThalamus_R"
-2129001086,"AnteriorBasalForebrain_L"
-2129001087,"AnteriorBasalForebrain_R"
-2129001088,"NucAccumbens_L"
-2129001089,"NucAccumbens_R"
-2129001090,"RedNc_L"
-2129001091,"RedNc_R"
-2129001092,"Snigra_L"
-2129001093,"Snigra_R"
-2129001094,"CerebellumGM_R"
-2129001095,"CerebellumGM_L"
-2129001096,"CP_L"
-2129001097,"CP_R"
-2129001098,"Midbrain_L"
-2129001099,"Midbrain_R"
-2129001100,"CST_L"
-2129001101,"CST_R"
-2129001102,"SCP_L"
-2129001103,"SCP_R"
-2129001104,"MCP_L"
-2129001105,"MCP_R"
-2129001106,"PCT_L"
-2129001107,"PCT_R"
-2129001108,"ICP_L"
-2129001109,"ICP_R"
-2129001110,"ML_L"
-2129001111,"ML_R"
-2129001112,"Pons_L"
-2129001113,"Pons_R"
-2129001114,"Medulla_L"
-2129001115,"Medulla_R"
-2129001116,"ACR_L"
-2129001117,"ACR_R"
-2129001118,"SCR_L"
-2129001119,"SCR_R"
-2129001120,"PCR_L"
-2129001121,"PCR_R"
-2129001122,"GCC_L"
-2129001123,"GCC_R"
-2129001124,"BCC_L"
-2129001125,"BCC_R"
-2129001126,"SCC_L"
-2129001127,"SCC_R"
-2129001128,"PVWl_L"
-2129001129,"PVWl_R"
-2129001130,"ALIC_L"
-2129001131,"ALIC_R"
-2129001132,"PLIC_L"
-2129001133,"PLIC_R"
-2129001134,"RLIC_L"
-2129001135,"RLIC_R"
-2129001136,"EC_L"
-2129001137,"EC_R"
-2129001138,"CGC_L"
-2129001139,"CGC_R"
-2129001140,"CGH_L"
-2129001141,"CGH_R"
-2129001142,"Fx/ST_L"
-2129001143,"Fx/ST_R"
-2129001144,"Fx_L"
-2129001145,"Fx_R"
-2129001146,"IFO_L"
-2129001147,"IFO_R"
-2129001148,"PTR_L"
-2129001149,"PTR_R"
-2129001150,"SS_L"
-2129001151,"SS_R"
-2129001152,"SFO_L"
-2129001153,"SFO_R"
-2129001154,"SLF_L"
-2129001155,"SLF_R"
-2129001156,"Cl_L"
-2129001157,"Cl_R"
-2129001158,"PosteriorBasalForebrain_L"
-2129001159,"PosteriorBasalForebrain_R"
-2129001160,"Mammillary_R"
-2129001161,"Mammillary_L"
-2129001162,"LV_Frontal_L"
-2129001163,"LV_body_L"
-2129001164,"LV_atrium_L"
-2129001165,"LV_Occipital_L"
-2129001166,"LV_Inferior_L"
-2129001167,"LV_Frontal_R"
-2129001168,"LV_body_R"
-2129001169,"LV_atrium_R"
-2129001170,"LV_Occipital_R"
-2129001171,"LV_Inferior_R"
-2129001172,"III_ventricle"
-2129001173,"PVWa_L"
-2129001174,"PVWa_R"
-2129001175,"PVWp_L"
-2129001176,"PVWp_R"
-2129001177,"SFWM_L"
-2129001178,"SFWM_R"
-2129001179,"SFWM_PFC_L"
-2129001180,"SFWM_PFC_R"
-2129001181,"SFWM_pole_L"
-2129001182,"SFWM_pole_R"
-2129001183,"MFWM_L"
-2129001184,"MFWM_R"
-2129001185,"MFWM_DPFC_L"
-2129001186,"MFWM_DPFC_R"
-2129001187,"IFWM_opercularis_L"
-2129001188,"IFWM_opercularis_R"
-2129001189,"IFWM_orbitalis_L"
-2129001190,"IFWM_orbitalis_R"
-2129001191,"IFWM_triangularis_L"
-2129001192,"IFWM_triangularis_R"
-2129001193,"LFOWM_L"
-2129001194,"LFOWM_R"
-2129001195,"MFOWM_L"
-2129001196,"MFOWM_R"
-2129001197,"RGWM_L"
-2129001198,"RGWM_R"
-2129001199,"PoCWM_L"
-2129001200,"PoCWM_R"
-2129001201,"PrCWM_L"
-2129001202,"PrCWM_R"
-2129001203,"SPWM_L"
-2129001204,"SPWM_R"
-2129001205,"SMWM_L"
-2129001206,"SMWM_R"
-2129001207,"AGWM_L"
-2129001208,"AGWM_R"
-2129001209,"PrCuWM_L"
-2129001210,"PrCuWM_R"
-2129001211,"STWM_L"
-2129001212,"STWM_R"
-2129001213,"STWM_pole_L"
-2129001214,"STWM_pole_R"
-2129001215,"MTWM_L"
-2129001216,"MTWM_R"
-2129001217,"MTWM_pole_L"
-2129001218,"MTWM_pole_R"
-2129001219,"ITWM_L"
-2129001220,"ITWM_R"
-2129001221,"FuWM_L"
-2129001222,"FuWM_R"
-2129001223,"SOWM_L"
-2129001224,"SOWM_R"
-2129001225,"MOWM_L"
-2129001226,"MOWM_R"
-2129001227,"IOWM_L"
-2129001228,"IOWM_R"
-2129001229,"CuWM_L"
-2129001230,"CuWM_R"
-2129001231,"LGWM_L"
-2129001232,"LGWM_R"
-2129001233,"rostralWM_ACC_L"
-2129001234,"rostralWM_ACC_R"
-2129001235,"subcallosalWM_ACC_L"
-2129001236,"subcallosalWM_ACC_R"
-2129001237,"subgenualWM_ACC_L"
-2129001238,"subgenualWM_ACC_R"
-2129001239,"dorsalWM_ACC_L"
-2129001240,"dorsalWM_ACC_R"
-2129001241,"PCCWM_L"
-2129001242,"PCCWM_R"
-2129001243,"CerebellumWM_R"
-2129001244,"CerebellumWM_L"
-2129001245,"MCP_cb_L"
-2129001246,"MCP_cb_R"
-2129001247,"ICP_cb_L"
-2129001248,"ICP_cb_R"
-2129001249,"FrontSul_L"
-2129001250,"FrontSul_R"
-2129001251,"CentralSul_L"
-2129001252,"CentralSul_R"
-2129001253,"SylFrontSul_L"
-2129001254,"SylFrontSul_R"
-2129001255,"SylTempSul_L"
-2129001256,"SylTempSul_R"
-2129001257,"SylParieSul_L"
-2129001258,"SylParieSul_R"
-2129001259,"ParietSul_L"
-2129001260,"ParietSul_R"
-2129001261,"CinguSul_L"
-2129001262,"CinguSul_R"
-2129001263,"OcciptSul_L"
-2129001264,"OcciptSul_R"
-2129001265,"TempSul_L"
-2129001266,"TempSul_R"
-2129001267,"Caudate_tail_L"
-2129001268,"Fimbria_L"
-2129001269,"Caudate_tail_R"
-2129001270,"Fimbria_R"
-2129001271,"Chroid_LVetc_L"
-2129001272,"Chroid_LVetc_R"
-2129001273,"IV_ventricle"
-2129001274,"ECCL_L"
-2129001275,"ECCL_R"
-2129001276,"ECSAnterior_L"
-2129001277,"ECSAnterior_R"
-2129001278,"ECSPosterior_L"
-2129001279,"ECSPosterior_R"
+,concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,concept_code,valid_start_date,valid_end_date
+0,2129000000,SFG_L,Spec Anatomic Site,0,Body Structure,SFG_L,2024-06-01,2099-12-31
+1,2129000001,SFG_R,Spec Anatomic Site,0,Body Structure,SFG_R,2024-06-01,2099-12-31
+2,2129000002,SFG_PFC_L,Spec Anatomic Site,0,Body Structure,SFG_PFC_L,2024-06-01,2099-12-31
+3,2129000003,SFG_PFC_R,Spec Anatomic Site,0,Body Structure,SFG_PFC_R,2024-06-01,2099-12-31
+4,2129000004,SFG_pole_L,Spec Anatomic Site,0,Body Structure,SFG_pole_L,2024-06-01,2099-12-31
+5,2129000005,SFG_pole_R,Spec Anatomic Site,0,Body Structure,SFG_pole_R,2024-06-01,2099-12-31
+6,2129000006,MFG_L,Spec Anatomic Site,0,Body Structure,MFG_L,2024-06-01,2099-12-31
+7,2129000007,MFG_R,Spec Anatomic Site,0,Body Structure,MFG_R,2024-06-01,2099-12-31
+8,2129000008,MFG_DPFC_L,Spec Anatomic Site,0,Body Structure,MFG_DPFC_L,2024-06-01,2099-12-31
+9,2129000009,MFG_DPFC_R,Spec Anatomic Site,0,Body Structure,MFG_DPFC_R,2024-06-01,2099-12-31
+10,2129000010,IFG_opercularis_L,Spec Anatomic Site,0,Body Structure,IFG_opercularis_L,2024-06-01,2099-12-31
+11,2129000011,IFG_opercularis_R,Spec Anatomic Site,0,Body Structure,IFG_opercularis_R,2024-06-01,2099-12-31
+12,2129000012,IFG_orbitalis_L,Spec Anatomic Site,0,Body Structure,IFG_orbitalis_L,2024-06-01,2099-12-31
+13,2129000013,IFG_orbitalis_R,Spec Anatomic Site,0,Body Structure,IFG_orbitalis_R,2024-06-01,2099-12-31
+14,2129000014,IFG_triangularis_L,Spec Anatomic Site,0,Body Structure,IFG_triangularis_L,2024-06-01,2099-12-31
+15,2129000015,IFG_triangularis_R,Spec Anatomic Site,0,Body Structure,IFG_triangularis_R,2024-06-01,2099-12-31
+16,2129000016,LFOG_L,Spec Anatomic Site,0,Body Structure,LFOG_L,2024-06-01,2099-12-31
+17,2129000017,LFOG_R,Spec Anatomic Site,0,Body Structure,LFOG_R,2024-06-01,2099-12-31
+18,2129000018,MFOG_L,Spec Anatomic Site,0,Body Structure,MFOG_L,2024-06-01,2099-12-31
+19,2129000019,MFOG_R,Spec Anatomic Site,0,Body Structure,MFOG_R,2024-06-01,2099-12-31
+20,2129000020,RG_L,Spec Anatomic Site,0,Body Structure,RG_L,2024-06-01,2099-12-31
+21,2129000021,RG_R,Spec Anatomic Site,0,Body Structure,RG_R,2024-06-01,2099-12-31
+22,2129000022,PoCG_L,Spec Anatomic Site,0,Body Structure,PoCG_L,2024-06-01,2099-12-31
+23,2129000023,PoCG_R,Spec Anatomic Site,0,Body Structure,PoCG_R,2024-06-01,2099-12-31
+24,2129000024,PrCG_L,Spec Anatomic Site,0,Body Structure,PrCG_L,2024-06-01,2099-12-31
+25,2129000025,PrCG_R,Spec Anatomic Site,0,Body Structure,PrCG_R,2024-06-01,2099-12-31
+26,2129000026,SPG_L,Spec Anatomic Site,0,Body Structure,SPG_L,2024-06-01,2099-12-31
+27,2129000027,SPG_R,Spec Anatomic Site,0,Body Structure,SPG_R,2024-06-01,2099-12-31
+28,2129000028,SMG_L,Spec Anatomic Site,0,Body Structure,SMG_L,2024-06-01,2099-12-31
+29,2129000029,SMG_R,Spec Anatomic Site,0,Body Structure,SMG_R,2024-06-01,2099-12-31
+30,2129000030,AG_L,Spec Anatomic Site,0,Body Structure,AG_L,2024-06-01,2099-12-31
+31,2129000031,AG_R,Spec Anatomic Site,0,Body Structure,AG_R,2024-06-01,2099-12-31
+32,2129000032,PrCu_L,Spec Anatomic Site,0,Body Structure,PrCu_L,2024-06-01,2099-12-31
+33,2129000033,PrCu_R,Spec Anatomic Site,0,Body Structure,PrCu_R,2024-06-01,2099-12-31
+34,2129000034,STG_L,Spec Anatomic Site,0,Body Structure,STG_L,2024-06-01,2099-12-31
+35,2129000035,STG_R,Spec Anatomic Site,0,Body Structure,STG_R,2024-06-01,2099-12-31
+36,2129000036,STG_pole_L,Spec Anatomic Site,0,Body Structure,STG_pole_L,2024-06-01,2099-12-31
+37,2129000037,STG_pole_R,Spec Anatomic Site,0,Body Structure,STG_pole_R,2024-06-01,2099-12-31
+38,2129000038,MTG_L,Spec Anatomic Site,0,Body Structure,MTG_L,2024-06-01,2099-12-31
+39,2129000039,MTG_R,Spec Anatomic Site,0,Body Structure,MTG_R,2024-06-01,2099-12-31
+40,2129000040,MTG_pole_L,Spec Anatomic Site,0,Body Structure,MTG_pole_L,2024-06-01,2099-12-31
+41,2129000041,MTG_pole_R,Spec Anatomic Site,0,Body Structure,MTG_pole_R,2024-06-01,2099-12-31
+42,2129000042,ITG_L,Spec Anatomic Site,0,Body Structure,ITG_L,2024-06-01,2099-12-31
+43,2129000043,ITG_R,Spec Anatomic Site,0,Body Structure,ITG_R,2024-06-01,2099-12-31
+44,2129000044,PHG_L,Spec Anatomic Site,0,Body Structure,PHG_L,2024-06-01,2099-12-31
+45,2129000045,PHG_R,Spec Anatomic Site,0,Body Structure,PHG_R,2024-06-01,2099-12-31
+46,2129000046,ENT_L,Spec Anatomic Site,0,Body Structure,ENT_L,2024-06-01,2099-12-31
+47,2129000047,ENT_R,Spec Anatomic Site,0,Body Structure,ENT_R,2024-06-01,2099-12-31
+48,2129000048,FuG_L,Spec Anatomic Site,0,Body Structure,FuG_L,2024-06-01,2099-12-31
+49,2129000049,FuG_R,Spec Anatomic Site,0,Body Structure,FuG_R,2024-06-01,2099-12-31
+50,2129000050,SOG_L,Spec Anatomic Site,0,Body Structure,SOG_L,2024-06-01,2099-12-31
+51,2129000051,SOG_R,Spec Anatomic Site,0,Body Structure,SOG_R,2024-06-01,2099-12-31
+52,2129000052,MOG_L,Spec Anatomic Site,0,Body Structure,MOG_L,2024-06-01,2099-12-31
+53,2129000053,MOG_R,Spec Anatomic Site,0,Body Structure,MOG_R,2024-06-01,2099-12-31
+54,2129000054,IOG_L,Spec Anatomic Site,0,Body Structure,IOG_L,2024-06-01,2099-12-31
+55,2129000055,IOG_R,Spec Anatomic Site,0,Body Structure,IOG_R,2024-06-01,2099-12-31
+56,2129000056,Cu_L,Spec Anatomic Site,0,Body Structure,Cu_L,2024-06-01,2099-12-31
+57,2129000057,Cu_R,Spec Anatomic Site,0,Body Structure,Cu_R,2024-06-01,2099-12-31
+58,2129000058,LG_L,Spec Anatomic Site,0,Body Structure,LG_L,2024-06-01,2099-12-31
+59,2129000059,LG_R,Spec Anatomic Site,0,Body Structure,LG_R,2024-06-01,2099-12-31
+60,2129000060,rostral_ACC_L,Spec Anatomic Site,0,Body Structure,rostral_ACC_L,2024-06-01,2099-12-31
+61,2129000061,rostral_ACC_R,Spec Anatomic Site,0,Body Structure,rostral_ACC_R,2024-06-01,2099-12-31
+62,2129000062,subcallosal_ACC_L,Spec Anatomic Site,0,Body Structure,subcallosal_ACC_L,2024-06-01,2099-12-31
+63,2129000063,subcallosal_ACC_R,Spec Anatomic Site,0,Body Structure,subcallosal_ACC_R,2024-06-01,2099-12-31
+64,2129000064,subgenual_ACC_L,Spec Anatomic Site,0,Body Structure,subgenual_ACC_L,2024-06-01,2099-12-31
+65,2129000065,subgenual_ACC_R,Spec Anatomic Site,0,Body Structure,subgenual_ACC_R,2024-06-01,2099-12-31
+66,2129000066,dorsal_ACC_L,Spec Anatomic Site,0,Body Structure,dorsal_ACC_L,2024-06-01,2099-12-31
+67,2129000067,dorsal_ACC_R,Spec Anatomic Site,0,Body Structure,dorsal_ACC_R,2024-06-01,2099-12-31
+68,2129000068,PCC_L,Spec Anatomic Site,0,Body Structure,PCC_L,2024-06-01,2099-12-31
+69,2129000069,PCC_R,Spec Anatomic Site,0,Body Structure,PCC_R,2024-06-01,2099-12-31
+70,2129000070,Insula_L,Spec Anatomic Site,0,Body Structure,Insula_L,2024-06-01,2099-12-31
+71,2129000071,Insula_R,Spec Anatomic Site,0,Body Structure,Insula_R,2024-06-01,2099-12-31
+72,2129000072,Amyg_L,Spec Anatomic Site,0,Body Structure,Amyg_L,2024-06-01,2099-12-31
+73,2129000073,Amyg_R,Spec Anatomic Site,0,Body Structure,Amyg_R,2024-06-01,2099-12-31
+74,2129000074,Hippo_L,Spec Anatomic Site,0,Body Structure,Hippo_L,2024-06-01,2099-12-31
+75,2129000075,Hippo_R,Spec Anatomic Site,0,Body Structure,Hippo_R,2024-06-01,2099-12-31
+76,2129000076,Caud_L,Spec Anatomic Site,0,Body Structure,Caud_L,2024-06-01,2099-12-31
+77,2129000077,Caud_R,Spec Anatomic Site,0,Body Structure,Caud_R,2024-06-01,2099-12-31
+78,2129000078,Put_L,Spec Anatomic Site,0,Body Structure,Put_L,2024-06-01,2099-12-31
+79,2129000079,Put_R,Spec Anatomic Site,0,Body Structure,Put_R,2024-06-01,2099-12-31
+80,2129000080,GP_L,Spec Anatomic Site,0,Body Structure,GP_L,2024-06-01,2099-12-31
+81,2129000081,GP_R,Spec Anatomic Site,0,Body Structure,GP_R,2024-06-01,2099-12-31
+82,2129000082,Thalamus_L,Spec Anatomic Site,0,Body Structure,Thalamus_L,2024-06-01,2099-12-31
+83,2129000083,Thalamus_R,Spec Anatomic Site,0,Body Structure,Thalamus_R,2024-06-01,2099-12-31
+84,2129000084,HypoThalamus_L,Spec Anatomic Site,0,Body Structure,HypoThalamus_L,2024-06-01,2099-12-31
+85,2129000085,HypoThalamus_R,Spec Anatomic Site,0,Body Structure,HypoThalamus_R,2024-06-01,2099-12-31
+86,2129000086,AnteriorBasalForebrain_L,Spec Anatomic Site,0,Body Structure,AnteriorBasalForebrain_L,2024-06-01,2099-12-31
+87,2129000087,AnteriorBasalForebrain_R,Spec Anatomic Site,0,Body Structure,AnteriorBasalForebrain_R,2024-06-01,2099-12-31
+88,2129000088,NucAccumbens_L,Spec Anatomic Site,0,Body Structure,NucAccumbens_L,2024-06-01,2099-12-31
+89,2129000089,NucAccumbens_R,Spec Anatomic Site,0,Body Structure,NucAccumbens_R,2024-06-01,2099-12-31
+90,2129000090,RedNc_L,Spec Anatomic Site,0,Body Structure,RedNc_L,2024-06-01,2099-12-31
+91,2129000091,RedNc_R,Spec Anatomic Site,0,Body Structure,RedNc_R,2024-06-01,2099-12-31
+92,2129000092,Snigra_L,Spec Anatomic Site,0,Body Structure,Snigra_L,2024-06-01,2099-12-31
+93,2129000093,Snigra_R,Spec Anatomic Site,0,Body Structure,Snigra_R,2024-06-01,2099-12-31
+94,2129000094,CerebellumGM_R,Spec Anatomic Site,0,Body Structure,CerebellumGM_R,2024-06-01,2099-12-31
+95,2129000095,CerebellumGM_L,Spec Anatomic Site,0,Body Structure,CerebellumGM_L,2024-06-01,2099-12-31
+96,2129000096,CP_L,Spec Anatomic Site,0,Body Structure,CP_L,2024-06-01,2099-12-31
+97,2129000097,CP_R,Spec Anatomic Site,0,Body Structure,CP_R,2024-06-01,2099-12-31
+98,2129000098,Midbrain_L,Spec Anatomic Site,0,Body Structure,Midbrain_L,2024-06-01,2099-12-31
+99,2129000099,Midbrain_R,Spec Anatomic Site,0,Body Structure,Midbrain_R,2024-06-01,2099-12-31
+100,2129000100,CST_L,Spec Anatomic Site,0,Body Structure,CST_L,2024-06-01,2099-12-31
+101,2129000101,CST_R,Spec Anatomic Site,0,Body Structure,CST_R,2024-06-01,2099-12-31
+102,2129000102,SCP_L,Spec Anatomic Site,0,Body Structure,SCP_L,2024-06-01,2099-12-31
+103,2129000103,SCP_R,Spec Anatomic Site,0,Body Structure,SCP_R,2024-06-01,2099-12-31
+104,2129000104,MCP_L,Spec Anatomic Site,0,Body Structure,MCP_L,2024-06-01,2099-12-31
+105,2129000105,MCP_R,Spec Anatomic Site,0,Body Structure,MCP_R,2024-06-01,2099-12-31
+106,2129000106,PCT_L,Spec Anatomic Site,0,Body Structure,PCT_L,2024-06-01,2099-12-31
+107,2129000107,PCT_R,Spec Anatomic Site,0,Body Structure,PCT_R,2024-06-01,2099-12-31
+108,2129000108,ICP_L,Spec Anatomic Site,0,Body Structure,ICP_L,2024-06-01,2099-12-31
+109,2129000109,ICP_R,Spec Anatomic Site,0,Body Structure,ICP_R,2024-06-01,2099-12-31
+110,2129000110,ML_L,Spec Anatomic Site,0,Body Structure,ML_L,2024-06-01,2099-12-31
+111,2129000111,ML_R,Spec Anatomic Site,0,Body Structure,ML_R,2024-06-01,2099-12-31
+112,2129000112,Pons_L,Spec Anatomic Site,0,Body Structure,Pons_L,2024-06-01,2099-12-31
+113,2129000113,Pons_R,Spec Anatomic Site,0,Body Structure,Pons_R,2024-06-01,2099-12-31
+114,2129000114,Medulla_L,Spec Anatomic Site,0,Body Structure,Medulla_L,2024-06-01,2099-12-31
+115,2129000115,Medulla_R,Spec Anatomic Site,0,Body Structure,Medulla_R,2024-06-01,2099-12-31
+116,2129000116,ACR_L,Spec Anatomic Site,0,Body Structure,ACR_L,2024-06-01,2099-12-31
+117,2129000117,ACR_R,Spec Anatomic Site,0,Body Structure,ACR_R,2024-06-01,2099-12-31
+118,2129000118,SCR_L,Spec Anatomic Site,0,Body Structure,SCR_L,2024-06-01,2099-12-31
+119,2129000119,SCR_R,Spec Anatomic Site,0,Body Structure,SCR_R,2024-06-01,2099-12-31
+120,2129000120,PCR_L,Spec Anatomic Site,0,Body Structure,PCR_L,2024-06-01,2099-12-31
+121,2129000121,PCR_R,Spec Anatomic Site,0,Body Structure,PCR_R,2024-06-01,2099-12-31
+122,2129000122,GCC_L,Spec Anatomic Site,0,Body Structure,GCC_L,2024-06-01,2099-12-31
+123,2129000123,GCC_R,Spec Anatomic Site,0,Body Structure,GCC_R,2024-06-01,2099-12-31
+124,2129000124,BCC_L,Spec Anatomic Site,0,Body Structure,BCC_L,2024-06-01,2099-12-31
+125,2129000125,BCC_R,Spec Anatomic Site,0,Body Structure,BCC_R,2024-06-01,2099-12-31
+126,2129000126,SCC_L,Spec Anatomic Site,0,Body Structure,SCC_L,2024-06-01,2099-12-31
+127,2129000127,SCC_R,Spec Anatomic Site,0,Body Structure,SCC_R,2024-06-01,2099-12-31
+128,2129000128,PVWl_L,Spec Anatomic Site,0,Body Structure,PVWl_L,2024-06-01,2099-12-31
+129,2129000129,PVWl_R,Spec Anatomic Site,0,Body Structure,PVWl_R,2024-06-01,2099-12-31
+130,2129000130,ALIC_L,Spec Anatomic Site,0,Body Structure,ALIC_L,2024-06-01,2099-12-31
+131,2129000131,ALIC_R,Spec Anatomic Site,0,Body Structure,ALIC_R,2024-06-01,2099-12-31
+132,2129000132,PLIC_L,Spec Anatomic Site,0,Body Structure,PLIC_L,2024-06-01,2099-12-31
+133,2129000133,PLIC_R,Spec Anatomic Site,0,Body Structure,PLIC_R,2024-06-01,2099-12-31
+134,2129000134,RLIC_L,Spec Anatomic Site,0,Body Structure,RLIC_L,2024-06-01,2099-12-31
+135,2129000135,RLIC_R,Spec Anatomic Site,0,Body Structure,RLIC_R,2024-06-01,2099-12-31
+136,2129000136,EC_L,Spec Anatomic Site,0,Body Structure,EC_L,2024-06-01,2099-12-31
+137,2129000137,EC_R,Spec Anatomic Site,0,Body Structure,EC_R,2024-06-01,2099-12-31
+138,2129000138,CGC_L,Spec Anatomic Site,0,Body Structure,CGC_L,2024-06-01,2099-12-31
+139,2129000139,CGC_R,Spec Anatomic Site,0,Body Structure,CGC_R,2024-06-01,2099-12-31
+140,2129000140,CGH_L,Spec Anatomic Site,0,Body Structure,CGH_L,2024-06-01,2099-12-31
+141,2129000141,CGH_R,Spec Anatomic Site,0,Body Structure,CGH_R,2024-06-01,2099-12-31
+142,2129000142,Fx/ST_L,Spec Anatomic Site,0,Body Structure,Fx/ST_L,2024-06-01,2099-12-31
+143,2129000143,Fx/ST_R,Spec Anatomic Site,0,Body Structure,Fx/ST_R,2024-06-01,2099-12-31
+144,2129000144,Fx_L,Spec Anatomic Site,0,Body Structure,Fx_L,2024-06-01,2099-12-31
+145,2129000145,Fx_R,Spec Anatomic Site,0,Body Structure,Fx_R,2024-06-01,2099-12-31
+146,2129000146,IFO_L,Spec Anatomic Site,0,Body Structure,IFO_L,2024-06-01,2099-12-31
+147,2129000147,IFO_R,Spec Anatomic Site,0,Body Structure,IFO_R,2024-06-01,2099-12-31
+148,2129000148,PTR_L,Spec Anatomic Site,0,Body Structure,PTR_L,2024-06-01,2099-12-31
+149,2129000149,PTR_R,Spec Anatomic Site,0,Body Structure,PTR_R,2024-06-01,2099-12-31
+150,2129000150,SS_L,Spec Anatomic Site,0,Body Structure,SS_L,2024-06-01,2099-12-31
+151,2129000151,SS_R,Spec Anatomic Site,0,Body Structure,SS_R,2024-06-01,2099-12-31
+152,2129000152,SFO_L,Spec Anatomic Site,0,Body Structure,SFO_L,2024-06-01,2099-12-31
+153,2129000153,SFO_R,Spec Anatomic Site,0,Body Structure,SFO_R,2024-06-01,2099-12-31
+154,2129000154,SLF_L,Spec Anatomic Site,0,Body Structure,SLF_L,2024-06-01,2099-12-31
+155,2129000155,SLF_R,Spec Anatomic Site,0,Body Structure,SLF_R,2024-06-01,2099-12-31
+156,2129000156,Cl_L,Spec Anatomic Site,0,Body Structure,Cl_L,2024-06-01,2099-12-31
+157,2129000157,Cl_R,Spec Anatomic Site,0,Body Structure,Cl_R,2024-06-01,2099-12-31
+158,2129000158,PosteriorBasalForebrain_L,Spec Anatomic Site,0,Body Structure,PosteriorBasalForebrain_L,2024-06-01,2099-12-31
+159,2129000159,PosteriorBasalForebrain_R,Spec Anatomic Site,0,Body Structure,PosteriorBasalForebrain_R,2024-06-01,2099-12-31
+160,2129000160,Mammillary_R,Spec Anatomic Site,0,Body Structure,Mammillary_R,2024-06-01,2099-12-31
+161,2129000161,Mammillary_L,Spec Anatomic Site,0,Body Structure,Mammillary_L,2024-06-01,2099-12-31
+162,2129000162,LV_Frontal_L,Spec Anatomic Site,0,Body Structure,LV_Frontal_L,2024-06-01,2099-12-31
+163,2129000163,LV_body_L,Spec Anatomic Site,0,Body Structure,LV_body_L,2024-06-01,2099-12-31
+164,2129000164,LV_atrium_L,Spec Anatomic Site,0,Body Structure,LV_atrium_L,2024-06-01,2099-12-31
+165,2129000165,LV_Occipital_L,Spec Anatomic Site,0,Body Structure,LV_Occipital_L,2024-06-01,2099-12-31
+166,2129000166,LV_Inferior_L,Spec Anatomic Site,0,Body Structure,LV_Inferior_L,2024-06-01,2099-12-31
+167,2129000167,LV_Frontal_R,Spec Anatomic Site,0,Body Structure,LV_Frontal_R,2024-06-01,2099-12-31
+168,2129000168,LV_body_R,Spec Anatomic Site,0,Body Structure,LV_body_R,2024-06-01,2099-12-31
+169,2129000169,LV_atrium_R,Spec Anatomic Site,0,Body Structure,LV_atrium_R,2024-06-01,2099-12-31
+170,2129000170,LV_Occipital_R,Spec Anatomic Site,0,Body Structure,LV_Occipital_R,2024-06-01,2099-12-31
+171,2129000171,LV_Inferior_R,Spec Anatomic Site,0,Body Structure,LV_Inferior_R,2024-06-01,2099-12-31
+172,2129000172,III_ventricle,Spec Anatomic Site,0,Body Structure,III_ventricle,2024-06-01,2099-12-31
+173,2129000173,PVWa_L,Spec Anatomic Site,0,Body Structure,PVWa_L,2024-06-01,2099-12-31
+174,2129000174,PVWa_R,Spec Anatomic Site,0,Body Structure,PVWa_R,2024-06-01,2099-12-31
+175,2129000175,PVWp_L,Spec Anatomic Site,0,Body Structure,PVWp_L,2024-06-01,2099-12-31
+176,2129000176,PVWp_R,Spec Anatomic Site,0,Body Structure,PVWp_R,2024-06-01,2099-12-31
+177,2129000177,SFWM_L,Spec Anatomic Site,0,Body Structure,SFWM_L,2024-06-01,2099-12-31
+178,2129000178,SFWM_R,Spec Anatomic Site,0,Body Structure,SFWM_R,2024-06-01,2099-12-31
+179,2129000179,SFWM_PFC_L,Spec Anatomic Site,0,Body Structure,SFWM_PFC_L,2024-06-01,2099-12-31
+180,2129000180,SFWM_PFC_R,Spec Anatomic Site,0,Body Structure,SFWM_PFC_R,2024-06-01,2099-12-31
+181,2129000181,SFWM_pole_L,Spec Anatomic Site,0,Body Structure,SFWM_pole_L,2024-06-01,2099-12-31
+182,2129000182,SFWM_pole_R,Spec Anatomic Site,0,Body Structure,SFWM_pole_R,2024-06-01,2099-12-31
+183,2129000183,MFWM_L,Spec Anatomic Site,0,Body Structure,MFWM_L,2024-06-01,2099-12-31
+184,2129000184,MFWM_R,Spec Anatomic Site,0,Body Structure,MFWM_R,2024-06-01,2099-12-31
+185,2129000185,MFWM_DPFC_L,Spec Anatomic Site,0,Body Structure,MFWM_DPFC_L,2024-06-01,2099-12-31
+186,2129000186,MFWM_DPFC_R,Spec Anatomic Site,0,Body Structure,MFWM_DPFC_R,2024-06-01,2099-12-31
+187,2129000187,IFWM_opercularis_L,Spec Anatomic Site,0,Body Structure,IFWM_opercularis_L,2024-06-01,2099-12-31
+188,2129000188,IFWM_opercularis_R,Spec Anatomic Site,0,Body Structure,IFWM_opercularis_R,2024-06-01,2099-12-31
+189,2129000189,IFWM_orbitalis_L,Spec Anatomic Site,0,Body Structure,IFWM_orbitalis_L,2024-06-01,2099-12-31
+190,2129000190,IFWM_orbitalis_R,Spec Anatomic Site,0,Body Structure,IFWM_orbitalis_R,2024-06-01,2099-12-31
+191,2129000191,IFWM_triangularis_L,Spec Anatomic Site,0,Body Structure,IFWM_triangularis_L,2024-06-01,2099-12-31
+192,2129000192,IFWM_triangularis_R,Spec Anatomic Site,0,Body Structure,IFWM_triangularis_R,2024-06-01,2099-12-31
+193,2129000193,LFOWM_L,Spec Anatomic Site,0,Body Structure,LFOWM_L,2024-06-01,2099-12-31
+194,2129000194,LFOWM_R,Spec Anatomic Site,0,Body Structure,LFOWM_R,2024-06-01,2099-12-31
+195,2129000195,MFOWM_L,Spec Anatomic Site,0,Body Structure,MFOWM_L,2024-06-01,2099-12-31
+196,2129000196,MFOWM_R,Spec Anatomic Site,0,Body Structure,MFOWM_R,2024-06-01,2099-12-31
+197,2129000197,RGWM_L,Spec Anatomic Site,0,Body Structure,RGWM_L,2024-06-01,2099-12-31
+198,2129000198,RGWM_R,Spec Anatomic Site,0,Body Structure,RGWM_R,2024-06-01,2099-12-31
+199,2129000199,PoCWM_L,Spec Anatomic Site,0,Body Structure,PoCWM_L,2024-06-01,2099-12-31
+200,2129000200,PoCWM_R,Spec Anatomic Site,0,Body Structure,PoCWM_R,2024-06-01,2099-12-31
+201,2129000201,PrCWM_L,Spec Anatomic Site,0,Body Structure,PrCWM_L,2024-06-01,2099-12-31
+202,2129000202,PrCWM_R,Spec Anatomic Site,0,Body Structure,PrCWM_R,2024-06-01,2099-12-31
+203,2129000203,SPWM_L,Spec Anatomic Site,0,Body Structure,SPWM_L,2024-06-01,2099-12-31
+204,2129000204,SPWM_R,Spec Anatomic Site,0,Body Structure,SPWM_R,2024-06-01,2099-12-31
+205,2129000205,SMWM_L,Spec Anatomic Site,0,Body Structure,SMWM_L,2024-06-01,2099-12-31
+206,2129000206,SMWM_R,Spec Anatomic Site,0,Body Structure,SMWM_R,2024-06-01,2099-12-31
+207,2129000207,AGWM_L,Spec Anatomic Site,0,Body Structure,AGWM_L,2024-06-01,2099-12-31
+208,2129000208,AGWM_R,Spec Anatomic Site,0,Body Structure,AGWM_R,2024-06-01,2099-12-31
+209,2129000209,PrCuWM_L,Spec Anatomic Site,0,Body Structure,PrCuWM_L,2024-06-01,2099-12-31
+210,2129000210,PrCuWM_R,Spec Anatomic Site,0,Body Structure,PrCuWM_R,2024-06-01,2099-12-31
+211,2129000211,STWM_L,Spec Anatomic Site,0,Body Structure,STWM_L,2024-06-01,2099-12-31
+212,2129000212,STWM_R,Spec Anatomic Site,0,Body Structure,STWM_R,2024-06-01,2099-12-31
+213,2129000213,STWM_pole_L,Spec Anatomic Site,0,Body Structure,STWM_pole_L,2024-06-01,2099-12-31
+214,2129000214,STWM_pole_R,Spec Anatomic Site,0,Body Structure,STWM_pole_R,2024-06-01,2099-12-31
+215,2129000215,MTWM_L,Spec Anatomic Site,0,Body Structure,MTWM_L,2024-06-01,2099-12-31
+216,2129000216,MTWM_R,Spec Anatomic Site,0,Body Structure,MTWM_R,2024-06-01,2099-12-31
+217,2129000217,MTWM_pole_L,Spec Anatomic Site,0,Body Structure,MTWM_pole_L,2024-06-01,2099-12-31
+218,2129000218,MTWM_pole_R,Spec Anatomic Site,0,Body Structure,MTWM_pole_R,2024-06-01,2099-12-31
+219,2129000219,ITWM_L,Spec Anatomic Site,0,Body Structure,ITWM_L,2024-06-01,2099-12-31
+220,2129000220,ITWM_R,Spec Anatomic Site,0,Body Structure,ITWM_R,2024-06-01,2099-12-31
+221,2129000221,FuWM_L,Spec Anatomic Site,0,Body Structure,FuWM_L,2024-06-01,2099-12-31
+222,2129000222,FuWM_R,Spec Anatomic Site,0,Body Structure,FuWM_R,2024-06-01,2099-12-31
+223,2129000223,SOWM_L,Spec Anatomic Site,0,Body Structure,SOWM_L,2024-06-01,2099-12-31
+224,2129000224,SOWM_R,Spec Anatomic Site,0,Body Structure,SOWM_R,2024-06-01,2099-12-31
+225,2129000225,MOWM_L,Spec Anatomic Site,0,Body Structure,MOWM_L,2024-06-01,2099-12-31
+226,2129000226,MOWM_R,Spec Anatomic Site,0,Body Structure,MOWM_R,2024-06-01,2099-12-31
+227,2129000227,IOWM_L,Spec Anatomic Site,0,Body Structure,IOWM_L,2024-06-01,2099-12-31
+228,2129000228,IOWM_R,Spec Anatomic Site,0,Body Structure,IOWM_R,2024-06-01,2099-12-31
+229,2129000229,CuWM_L,Spec Anatomic Site,0,Body Structure,CuWM_L,2024-06-01,2099-12-31
+230,2129000230,CuWM_R,Spec Anatomic Site,0,Body Structure,CuWM_R,2024-06-01,2099-12-31
+231,2129000231,LGWM_L,Spec Anatomic Site,0,Body Structure,LGWM_L,2024-06-01,2099-12-31
+232,2129000232,LGWM_R,Spec Anatomic Site,0,Body Structure,LGWM_R,2024-06-01,2099-12-31
+233,2129000233,rostralWM_ACC_L,Spec Anatomic Site,0,Body Structure,rostralWM_ACC_L,2024-06-01,2099-12-31
+234,2129000234,rostralWM_ACC_R,Spec Anatomic Site,0,Body Structure,rostralWM_ACC_R,2024-06-01,2099-12-31
+235,2129000235,subcallosalWM_ACC_L,Spec Anatomic Site,0,Body Structure,subcallosalWM_ACC_L,2024-06-01,2099-12-31
+236,2129000236,subcallosalWM_ACC_R,Spec Anatomic Site,0,Body Structure,subcallosalWM_ACC_R,2024-06-01,2099-12-31
+237,2129000237,subgenualWM_ACC_L,Spec Anatomic Site,0,Body Structure,subgenualWM_ACC_L,2024-06-01,2099-12-31
+238,2129000238,subgenualWM_ACC_R,Spec Anatomic Site,0,Body Structure,subgenualWM_ACC_R,2024-06-01,2099-12-31
+239,2129000239,dorsalWM_ACC_L,Spec Anatomic Site,0,Body Structure,dorsalWM_ACC_L,2024-06-01,2099-12-31
+240,2129000240,dorsalWM_ACC_R,Spec Anatomic Site,0,Body Structure,dorsalWM_ACC_R,2024-06-01,2099-12-31
+241,2129000241,PCCWM_L,Spec Anatomic Site,0,Body Structure,PCCWM_L,2024-06-01,2099-12-31
+242,2129000242,PCCWM_R,Spec Anatomic Site,0,Body Structure,PCCWM_R,2024-06-01,2099-12-31
+243,2129000243,CerebellumWM_R,Spec Anatomic Site,0,Body Structure,CerebellumWM_R,2024-06-01,2099-12-31
+244,2129000244,CerebellumWM_L,Spec Anatomic Site,0,Body Structure,CerebellumWM_L,2024-06-01,2099-12-31
+245,2129000245,MCP_cb_L,Spec Anatomic Site,0,Body Structure,MCP_cb_L,2024-06-01,2099-12-31
+246,2129000246,MCP_cb_R,Spec Anatomic Site,0,Body Structure,MCP_cb_R,2024-06-01,2099-12-31
+247,2129000247,ICP_cb_L,Spec Anatomic Site,0,Body Structure,ICP_cb_L,2024-06-01,2099-12-31
+248,2129000248,ICP_cb_R,Spec Anatomic Site,0,Body Structure,ICP_cb_R,2024-06-01,2099-12-31
+249,2129000249,FrontSul_L,Spec Anatomic Site,0,Body Structure,FrontSul_L,2024-06-01,2099-12-31
+250,2129000250,FrontSul_R,Spec Anatomic Site,0,Body Structure,FrontSul_R,2024-06-01,2099-12-31
+251,2129000251,CentralSul_L,Spec Anatomic Site,0,Body Structure,CentralSul_L,2024-06-01,2099-12-31
+252,2129000252,CentralSul_R,Spec Anatomic Site,0,Body Structure,CentralSul_R,2024-06-01,2099-12-31
+253,2129000253,SylFrontSul_L,Spec Anatomic Site,0,Body Structure,SylFrontSul_L,2024-06-01,2099-12-31
+254,2129000254,SylFrontSul_R,Spec Anatomic Site,0,Body Structure,SylFrontSul_R,2024-06-01,2099-12-31
+255,2129000255,SylTempSul_L,Spec Anatomic Site,0,Body Structure,SylTempSul_L,2024-06-01,2099-12-31
+256,2129000256,SylTempSul_R,Spec Anatomic Site,0,Body Structure,SylTempSul_R,2024-06-01,2099-12-31
+257,2129000257,SylParieSul_L,Spec Anatomic Site,0,Body Structure,SylParieSul_L,2024-06-01,2099-12-31
+258,2129000258,SylParieSul_R,Spec Anatomic Site,0,Body Structure,SylParieSul_R,2024-06-01,2099-12-31
+259,2129000259,ParietSul_L,Spec Anatomic Site,0,Body Structure,ParietSul_L,2024-06-01,2099-12-31
+260,2129000260,ParietSul_R,Spec Anatomic Site,0,Body Structure,ParietSul_R,2024-06-01,2099-12-31
+261,2129000261,CinguSul_L,Spec Anatomic Site,0,Body Structure,CinguSul_L,2024-06-01,2099-12-31
+262,2129000262,CinguSul_R,Spec Anatomic Site,0,Body Structure,CinguSul_R,2024-06-01,2099-12-31
+263,2129000263,OcciptSul_L,Spec Anatomic Site,0,Body Structure,OcciptSul_L,2024-06-01,2099-12-31
+264,2129000264,OcciptSul_R,Spec Anatomic Site,0,Body Structure,OcciptSul_R,2024-06-01,2099-12-31
+265,2129000265,TempSul_L,Spec Anatomic Site,0,Body Structure,TempSul_L,2024-06-01,2099-12-31
+266,2129000266,TempSul_R,Spec Anatomic Site,0,Body Structure,TempSul_R,2024-06-01,2099-12-31
+267,2129000267,Caudate_tail_L,Spec Anatomic Site,0,Body Structure,Caudate_tail_L,2024-06-01,2099-12-31
+268,2129000268,Fimbria_L,Spec Anatomic Site,0,Body Structure,Fimbria_L,2024-06-01,2099-12-31
+269,2129000269,Caudate_tail_R,Spec Anatomic Site,0,Body Structure,Caudate_tail_R,2024-06-01,2099-12-31
+270,2129000270,Fimbria_R,Spec Anatomic Site,0,Body Structure,Fimbria_R,2024-06-01,2099-12-31
+271,2129000271,Chroid_LVetc_L,Spec Anatomic Site,0,Body Structure,Chroid_LVetc_L,2024-06-01,2099-12-31
+272,2129000272,Chroid_LVetc_R,Spec Anatomic Site,0,Body Structure,Chroid_LVetc_R,2024-06-01,2099-12-31
+273,2129000273,IV_ventricle,Spec Anatomic Site,0,Body Structure,IV_ventricle,2024-06-01,2099-12-31
+274,2129000274,ECCL_L,Spec Anatomic Site,0,Body Structure,ECCL_L,2024-06-01,2099-12-31
+275,2129000275,ECCL_R,Spec Anatomic Site,0,Body Structure,ECCL_R,2024-06-01,2099-12-31
+276,2129000276,ECSAnterior_L,Spec Anatomic Site,0,Body Structure,ECSAnterior_L,2024-06-01,2099-12-31
+277,2129000277,ECSAnterior_R,Spec Anatomic Site,0,Body Structure,ECSAnterior_R,2024-06-01,2099-12-31
+278,2129000278,ECSPosterior_L,Spec Anatomic Site,0,Body Structure,ECSPosterior_L,2024-06-01,2099-12-31
+279,2129000279,ECSPosterior_R,Spec Anatomic Site,0,Body Structure,ECSPosterior_R,2024-06-01,2099-12-31
+0,2129001000,Volume Estimation of SFG_L,Measurement,0,Clinical Observation,Volume Estimation of SFG_L,2024-06-01,2099-12-31
+1,2129001001,Volume Estimation of SFG_R,Measurement,0,Clinical Observation,Volume Estimation of SFG_R,2024-06-01,2099-12-31
+2,2129001002,Volume Estimation of SFG_PFC_L,Measurement,0,Clinical Observation,Volume Estimation of SFG_PFC_L,2024-06-01,2099-12-31
+3,2129001003,Volume Estimation of SFG_PFC_R,Measurement,0,Clinical Observation,Volume Estimation of SFG_PFC_R,2024-06-01,2099-12-31
+4,2129001004,Volume Estimation of SFG_pole_L,Measurement,0,Clinical Observation,Volume Estimation of SFG_pole_L,2024-06-01,2099-12-31
+5,2129001005,Volume Estimation of SFG_pole_R,Measurement,0,Clinical Observation,Volume Estimation of SFG_pole_R,2024-06-01,2099-12-31
+6,2129001006,Volume Estimation of MFG_L,Measurement,0,Clinical Observation,Volume Estimation of MFG_L,2024-06-01,2099-12-31
+7,2129001007,Volume Estimation of MFG_R,Measurement,0,Clinical Observation,Volume Estimation of MFG_R,2024-06-01,2099-12-31
+8,2129001008,Volume Estimation of MFG_DPFC_L,Measurement,0,Clinical Observation,Volume Estimation of MFG_DPFC_L,2024-06-01,2099-12-31
+9,2129001009,Volume Estimation of MFG_DPFC_R,Measurement,0,Clinical Observation,Volume Estimation of MFG_DPFC_R,2024-06-01,2099-12-31
+10,2129001010,Volume Estimation of IFG_opercularis_L,Measurement,0,Clinical Observation,Volume Estimation of IFG_opercularis_L,2024-06-01,2099-12-31
+11,2129001011,Volume Estimation of IFG_opercularis_R,Measurement,0,Clinical Observation,Volume Estimation of IFG_opercularis_R,2024-06-01,2099-12-31
+12,2129001012,Volume Estimation of IFG_orbitalis_L,Measurement,0,Clinical Observation,Volume Estimation of IFG_orbitalis_L,2024-06-01,2099-12-31
+13,2129001013,Volume Estimation of IFG_orbitalis_R,Measurement,0,Clinical Observation,Volume Estimation of IFG_orbitalis_R,2024-06-01,2099-12-31
+14,2129001014,Volume Estimation of IFG_triangularis_L,Measurement,0,Clinical Observation,Volume Estimation of IFG_triangularis_L,2024-06-01,2099-12-31
+15,2129001015,Volume Estimation of IFG_triangularis_R,Measurement,0,Clinical Observation,Volume Estimation of IFG_triangularis_R,2024-06-01,2099-12-31
+16,2129001016,Volume Estimation of LFOG_L,Measurement,0,Clinical Observation,Volume Estimation of LFOG_L,2024-06-01,2099-12-31
+17,2129001017,Volume Estimation of LFOG_R,Measurement,0,Clinical Observation,Volume Estimation of LFOG_R,2024-06-01,2099-12-31
+18,2129001018,Volume Estimation of MFOG_L,Measurement,0,Clinical Observation,Volume Estimation of MFOG_L,2024-06-01,2099-12-31
+19,2129001019,Volume Estimation of MFOG_R,Measurement,0,Clinical Observation,Volume Estimation of MFOG_R,2024-06-01,2099-12-31
+20,2129001020,Volume Estimation of RG_L,Measurement,0,Clinical Observation,Volume Estimation of RG_L,2024-06-01,2099-12-31
+21,2129001021,Volume Estimation of RG_R,Measurement,0,Clinical Observation,Volume Estimation of RG_R,2024-06-01,2099-12-31
+22,2129001022,Volume Estimation of PoCG_L,Measurement,0,Clinical Observation,Volume Estimation of PoCG_L,2024-06-01,2099-12-31
+23,2129001023,Volume Estimation of PoCG_R,Measurement,0,Clinical Observation,Volume Estimation of PoCG_R,2024-06-01,2099-12-31
+24,2129001024,Volume Estimation of PrCG_L,Measurement,0,Clinical Observation,Volume Estimation of PrCG_L,2024-06-01,2099-12-31
+25,2129001025,Volume Estimation of PrCG_R,Measurement,0,Clinical Observation,Volume Estimation of PrCG_R,2024-06-01,2099-12-31
+26,2129001026,Volume Estimation of SPG_L,Measurement,0,Clinical Observation,Volume Estimation of SPG_L,2024-06-01,2099-12-31
+27,2129001027,Volume Estimation of SPG_R,Measurement,0,Clinical Observation,Volume Estimation of SPG_R,2024-06-01,2099-12-31
+28,2129001028,Volume Estimation of SMG_L,Measurement,0,Clinical Observation,Volume Estimation of SMG_L,2024-06-01,2099-12-31
+29,2129001029,Volume Estimation of SMG_R,Measurement,0,Clinical Observation,Volume Estimation of SMG_R,2024-06-01,2099-12-31
+30,2129001030,Volume Estimation of AG_L,Measurement,0,Clinical Observation,Volume Estimation of AG_L,2024-06-01,2099-12-31
+31,2129001031,Volume Estimation of AG_R,Measurement,0,Clinical Observation,Volume Estimation of AG_R,2024-06-01,2099-12-31
+32,2129001032,Volume Estimation of PrCu_L,Measurement,0,Clinical Observation,Volume Estimation of PrCu_L,2024-06-01,2099-12-31
+33,2129001033,Volume Estimation of PrCu_R,Measurement,0,Clinical Observation,Volume Estimation of PrCu_R,2024-06-01,2099-12-31
+34,2129001034,Volume Estimation of STG_L,Measurement,0,Clinical Observation,Volume Estimation of STG_L,2024-06-01,2099-12-31
+35,2129001035,Volume Estimation of STG_R,Measurement,0,Clinical Observation,Volume Estimation of STG_R,2024-06-01,2099-12-31
+36,2129001036,Volume Estimation of STG_pole_L,Measurement,0,Clinical Observation,Volume Estimation of STG_pole_L,2024-06-01,2099-12-31
+37,2129001037,Volume Estimation of STG_pole_R,Measurement,0,Clinical Observation,Volume Estimation of STG_pole_R,2024-06-01,2099-12-31
+38,2129001038,Volume Estimation of MTG_L,Measurement,0,Clinical Observation,Volume Estimation of MTG_L,2024-06-01,2099-12-31
+39,2129001039,Volume Estimation of MTG_R,Measurement,0,Clinical Observation,Volume Estimation of MTG_R,2024-06-01,2099-12-31
+40,2129001040,Volume Estimation of MTG_pole_L,Measurement,0,Clinical Observation,Volume Estimation of MTG_pole_L,2024-06-01,2099-12-31
+41,2129001041,Volume Estimation of MTG_pole_R,Measurement,0,Clinical Observation,Volume Estimation of MTG_pole_R,2024-06-01,2099-12-31
+42,2129001042,Volume Estimation of ITG_L,Measurement,0,Clinical Observation,Volume Estimation of ITG_L,2024-06-01,2099-12-31
+43,2129001043,Volume Estimation of ITG_R,Measurement,0,Clinical Observation,Volume Estimation of ITG_R,2024-06-01,2099-12-31
+44,2129001044,Volume Estimation of PHG_L,Measurement,0,Clinical Observation,Volume Estimation of PHG_L,2024-06-01,2099-12-31
+45,2129001045,Volume Estimation of PHG_R,Measurement,0,Clinical Observation,Volume Estimation of PHG_R,2024-06-01,2099-12-31
+46,2129001046,Volume Estimation of ENT_L,Measurement,0,Clinical Observation,Volume Estimation of ENT_L,2024-06-01,2099-12-31
+47,2129001047,Volume Estimation of ENT_R,Measurement,0,Clinical Observation,Volume Estimation of ENT_R,2024-06-01,2099-12-31
+48,2129001048,Volume Estimation of FuG_L,Measurement,0,Clinical Observation,Volume Estimation of FuG_L,2024-06-01,2099-12-31
+49,2129001049,Volume Estimation of FuG_R,Measurement,0,Clinical Observation,Volume Estimation of FuG_R,2024-06-01,2099-12-31
+50,2129001050,Volume Estimation of SOG_L,Measurement,0,Clinical Observation,Volume Estimation of SOG_L,2024-06-01,2099-12-31
+51,2129001051,Volume Estimation of SOG_R,Measurement,0,Clinical Observation,Volume Estimation of SOG_R,2024-06-01,2099-12-31
+52,2129001052,Volume Estimation of MOG_L,Measurement,0,Clinical Observation,Volume Estimation of MOG_L,2024-06-01,2099-12-31
+53,2129001053,Volume Estimation of MOG_R,Measurement,0,Clinical Observation,Volume Estimation of MOG_R,2024-06-01,2099-12-31
+54,2129001054,Volume Estimation of IOG_L,Measurement,0,Clinical Observation,Volume Estimation of IOG_L,2024-06-01,2099-12-31
+55,2129001055,Volume Estimation of IOG_R,Measurement,0,Clinical Observation,Volume Estimation of IOG_R,2024-06-01,2099-12-31
+56,2129001056,Volume Estimation of Cu_L,Measurement,0,Clinical Observation,Volume Estimation of Cu_L,2024-06-01,2099-12-31
+57,2129001057,Volume Estimation of Cu_R,Measurement,0,Clinical Observation,Volume Estimation of Cu_R,2024-06-01,2099-12-31
+58,2129001058,Volume Estimation of LG_L,Measurement,0,Clinical Observation,Volume Estimation of LG_L,2024-06-01,2099-12-31
+59,2129001059,Volume Estimation of LG_R,Measurement,0,Clinical Observation,Volume Estimation of LG_R,2024-06-01,2099-12-31
+60,2129001060,Volume Estimation of rostral_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of rostral_ACC_L,2024-06-01,2099-12-31
+61,2129001061,Volume Estimation of rostral_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of rostral_ACC_R,2024-06-01,2099-12-31
+62,2129001062,Volume Estimation of subcallosal_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of subcallosal_ACC_L,2024-06-01,2099-12-31
+63,2129001063,Volume Estimation of subcallosal_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of subcallosal_ACC_R,2024-06-01,2099-12-31
+64,2129001064,Volume Estimation of subgenual_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of subgenual_ACC_L,2024-06-01,2099-12-31
+65,2129001065,Volume Estimation of subgenual_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of subgenual_ACC_R,2024-06-01,2099-12-31
+66,2129001066,Volume Estimation of dorsal_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of dorsal_ACC_L,2024-06-01,2099-12-31
+67,2129001067,Volume Estimation of dorsal_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of dorsal_ACC_R,2024-06-01,2099-12-31
+68,2129001068,Volume Estimation of PCC_L,Measurement,0,Clinical Observation,Volume Estimation of PCC_L,2024-06-01,2099-12-31
+69,2129001069,Volume Estimation of PCC_R,Measurement,0,Clinical Observation,Volume Estimation of PCC_R,2024-06-01,2099-12-31
+70,2129001070,Volume Estimation of Insula_L,Measurement,0,Clinical Observation,Volume Estimation of Insula_L,2024-06-01,2099-12-31
+71,2129001071,Volume Estimation of Insula_R,Measurement,0,Clinical Observation,Volume Estimation of Insula_R,2024-06-01,2099-12-31
+72,2129001072,Volume Estimation of Amyg_L,Measurement,0,Clinical Observation,Volume Estimation of Amyg_L,2024-06-01,2099-12-31
+73,2129001073,Volume Estimation of Amyg_R,Measurement,0,Clinical Observation,Volume Estimation of Amyg_R,2024-06-01,2099-12-31
+74,2129001074,Volume Estimation of Hippo_L,Measurement,0,Clinical Observation,Volume Estimation of Hippo_L,2024-06-01,2099-12-31
+75,2129001075,Volume Estimation of Hippo_R,Measurement,0,Clinical Observation,Volume Estimation of Hippo_R,2024-06-01,2099-12-31
+76,2129001076,Volume Estimation of Caud_L,Measurement,0,Clinical Observation,Volume Estimation of Caud_L,2024-06-01,2099-12-31
+77,2129001077,Volume Estimation of Caud_R,Measurement,0,Clinical Observation,Volume Estimation of Caud_R,2024-06-01,2099-12-31
+78,2129001078,Volume Estimation of Put_L,Measurement,0,Clinical Observation,Volume Estimation of Put_L,2024-06-01,2099-12-31
+79,2129001079,Volume Estimation of Put_R,Measurement,0,Clinical Observation,Volume Estimation of Put_R,2024-06-01,2099-12-31
+80,2129001080,Volume Estimation of GP_L,Measurement,0,Clinical Observation,Volume Estimation of GP_L,2024-06-01,2099-12-31
+81,2129001081,Volume Estimation of GP_R,Measurement,0,Clinical Observation,Volume Estimation of GP_R,2024-06-01,2099-12-31
+82,2129001082,Volume Estimation of Thalamus_L,Measurement,0,Clinical Observation,Volume Estimation of Thalamus_L,2024-06-01,2099-12-31
+83,2129001083,Volume Estimation of Thalamus_R,Measurement,0,Clinical Observation,Volume Estimation of Thalamus_R,2024-06-01,2099-12-31
+84,2129001084,Volume Estimation of HypoThalamus_L,Measurement,0,Clinical Observation,Volume Estimation of HypoThalamus_L,2024-06-01,2099-12-31
+85,2129001085,Volume Estimation of HypoThalamus_R,Measurement,0,Clinical Observation,Volume Estimation of HypoThalamus_R,2024-06-01,2099-12-31
+86,2129001086,Volume Estimation of AnteriorBasalForebrain_L,Measurement,0,Clinical Observation,Volume Estimation of AnteriorBasalForebrain_L,2024-06-01,2099-12-31
+87,2129001087,Volume Estimation of AnteriorBasalForebrain_R,Measurement,0,Clinical Observation,Volume Estimation of AnteriorBasalForebrain_R,2024-06-01,2099-12-31
+88,2129001088,Volume Estimation of NucAccumbens_L,Measurement,0,Clinical Observation,Volume Estimation of NucAccumbens_L,2024-06-01,2099-12-31
+89,2129001089,Volume Estimation of NucAccumbens_R,Measurement,0,Clinical Observation,Volume Estimation of NucAccumbens_R,2024-06-01,2099-12-31
+90,2129001090,Volume Estimation of RedNc_L,Measurement,0,Clinical Observation,Volume Estimation of RedNc_L,2024-06-01,2099-12-31
+91,2129001091,Volume Estimation of RedNc_R,Measurement,0,Clinical Observation,Volume Estimation of RedNc_R,2024-06-01,2099-12-31
+92,2129001092,Volume Estimation of Snigra_L,Measurement,0,Clinical Observation,Volume Estimation of Snigra_L,2024-06-01,2099-12-31
+93,2129001093,Volume Estimation of Snigra_R,Measurement,0,Clinical Observation,Volume Estimation of Snigra_R,2024-06-01,2099-12-31
+94,2129001094,Volume Estimation of CerebellumGM_R,Measurement,0,Clinical Observation,Volume Estimation of CerebellumGM_R,2024-06-01,2099-12-31
+95,2129001095,Volume Estimation of CerebellumGM_L,Measurement,0,Clinical Observation,Volume Estimation of CerebellumGM_L,2024-06-01,2099-12-31
+96,2129001096,Volume Estimation of CP_L,Measurement,0,Clinical Observation,Volume Estimation of CP_L,2024-06-01,2099-12-31
+97,2129001097,Volume Estimation of CP_R,Measurement,0,Clinical Observation,Volume Estimation of CP_R,2024-06-01,2099-12-31
+98,2129001098,Volume Estimation of Midbrain_L,Measurement,0,Clinical Observation,Volume Estimation of Midbrain_L,2024-06-01,2099-12-31
+99,2129001099,Volume Estimation of Midbrain_R,Measurement,0,Clinical Observation,Volume Estimation of Midbrain_R,2024-06-01,2099-12-31
+100,2129001100,Volume Estimation of CST_L,Measurement,0,Clinical Observation,Volume Estimation of CST_L,2024-06-01,2099-12-31
+101,2129001101,Volume Estimation of CST_R,Measurement,0,Clinical Observation,Volume Estimation of CST_R,2024-06-01,2099-12-31
+102,2129001102,Volume Estimation of SCP_L,Measurement,0,Clinical Observation,Volume Estimation of SCP_L,2024-06-01,2099-12-31
+103,2129001103,Volume Estimation of SCP_R,Measurement,0,Clinical Observation,Volume Estimation of SCP_R,2024-06-01,2099-12-31
+104,2129001104,Volume Estimation of MCP_L,Measurement,0,Clinical Observation,Volume Estimation of MCP_L,2024-06-01,2099-12-31
+105,2129001105,Volume Estimation of MCP_R,Measurement,0,Clinical Observation,Volume Estimation of MCP_R,2024-06-01,2099-12-31
+106,2129001106,Volume Estimation of PCT_L,Measurement,0,Clinical Observation,Volume Estimation of PCT_L,2024-06-01,2099-12-31
+107,2129001107,Volume Estimation of PCT_R,Measurement,0,Clinical Observation,Volume Estimation of PCT_R,2024-06-01,2099-12-31
+108,2129001108,Volume Estimation of ICP_L,Measurement,0,Clinical Observation,Volume Estimation of ICP_L,2024-06-01,2099-12-31
+109,2129001109,Volume Estimation of ICP_R,Measurement,0,Clinical Observation,Volume Estimation of ICP_R,2024-06-01,2099-12-31
+110,2129001110,Volume Estimation of ML_L,Measurement,0,Clinical Observation,Volume Estimation of ML_L,2024-06-01,2099-12-31
+111,2129001111,Volume Estimation of ML_R,Measurement,0,Clinical Observation,Volume Estimation of ML_R,2024-06-01,2099-12-31
+112,2129001112,Volume Estimation of Pons_L,Measurement,0,Clinical Observation,Volume Estimation of Pons_L,2024-06-01,2099-12-31
+113,2129001113,Volume Estimation of Pons_R,Measurement,0,Clinical Observation,Volume Estimation of Pons_R,2024-06-01,2099-12-31
+114,2129001114,Volume Estimation of Medulla_L,Measurement,0,Clinical Observation,Volume Estimation of Medulla_L,2024-06-01,2099-12-31
+115,2129001115,Volume Estimation of Medulla_R,Measurement,0,Clinical Observation,Volume Estimation of Medulla_R,2024-06-01,2099-12-31
+116,2129001116,Volume Estimation of ACR_L,Measurement,0,Clinical Observation,Volume Estimation of ACR_L,2024-06-01,2099-12-31
+117,2129001117,Volume Estimation of ACR_R,Measurement,0,Clinical Observation,Volume Estimation of ACR_R,2024-06-01,2099-12-31
+118,2129001118,Volume Estimation of SCR_L,Measurement,0,Clinical Observation,Volume Estimation of SCR_L,2024-06-01,2099-12-31
+119,2129001119,Volume Estimation of SCR_R,Measurement,0,Clinical Observation,Volume Estimation of SCR_R,2024-06-01,2099-12-31
+120,2129001120,Volume Estimation of PCR_L,Measurement,0,Clinical Observation,Volume Estimation of PCR_L,2024-06-01,2099-12-31
+121,2129001121,Volume Estimation of PCR_R,Measurement,0,Clinical Observation,Volume Estimation of PCR_R,2024-06-01,2099-12-31
+122,2129001122,Volume Estimation of GCC_L,Measurement,0,Clinical Observation,Volume Estimation of GCC_L,2024-06-01,2099-12-31
+123,2129001123,Volume Estimation of GCC_R,Measurement,0,Clinical Observation,Volume Estimation of GCC_R,2024-06-01,2099-12-31
+124,2129001124,Volume Estimation of BCC_L,Measurement,0,Clinical Observation,Volume Estimation of BCC_L,2024-06-01,2099-12-31
+125,2129001125,Volume Estimation of BCC_R,Measurement,0,Clinical Observation,Volume Estimation of BCC_R,2024-06-01,2099-12-31
+126,2129001126,Volume Estimation of SCC_L,Measurement,0,Clinical Observation,Volume Estimation of SCC_L,2024-06-01,2099-12-31
+127,2129001127,Volume Estimation of SCC_R,Measurement,0,Clinical Observation,Volume Estimation of SCC_R,2024-06-01,2099-12-31
+128,2129001128,Volume Estimation of PVWl_L,Measurement,0,Clinical Observation,Volume Estimation of PVWl_L,2024-06-01,2099-12-31
+129,2129001129,Volume Estimation of PVWl_R,Measurement,0,Clinical Observation,Volume Estimation of PVWl_R,2024-06-01,2099-12-31
+130,2129001130,Volume Estimation of ALIC_L,Measurement,0,Clinical Observation,Volume Estimation of ALIC_L,2024-06-01,2099-12-31
+131,2129001131,Volume Estimation of ALIC_R,Measurement,0,Clinical Observation,Volume Estimation of ALIC_R,2024-06-01,2099-12-31
+132,2129001132,Volume Estimation of PLIC_L,Measurement,0,Clinical Observation,Volume Estimation of PLIC_L,2024-06-01,2099-12-31
+133,2129001133,Volume Estimation of PLIC_R,Measurement,0,Clinical Observation,Volume Estimation of PLIC_R,2024-06-01,2099-12-31
+134,2129001134,Volume Estimation of RLIC_L,Measurement,0,Clinical Observation,Volume Estimation of RLIC_L,2024-06-01,2099-12-31
+135,2129001135,Volume Estimation of RLIC_R,Measurement,0,Clinical Observation,Volume Estimation of RLIC_R,2024-06-01,2099-12-31
+136,2129001136,Volume Estimation of EC_L,Measurement,0,Clinical Observation,Volume Estimation of EC_L,2024-06-01,2099-12-31
+137,2129001137,Volume Estimation of EC_R,Measurement,0,Clinical Observation,Volume Estimation of EC_R,2024-06-01,2099-12-31
+138,2129001138,Volume Estimation of CGC_L,Measurement,0,Clinical Observation,Volume Estimation of CGC_L,2024-06-01,2099-12-31
+139,2129001139,Volume Estimation of CGC_R,Measurement,0,Clinical Observation,Volume Estimation of CGC_R,2024-06-01,2099-12-31
+140,2129001140,Volume Estimation of CGH_L,Measurement,0,Clinical Observation,Volume Estimation of CGH_L,2024-06-01,2099-12-31
+141,2129001141,Volume Estimation of CGH_R,Measurement,0,Clinical Observation,Volume Estimation of CGH_R,2024-06-01,2099-12-31
+142,2129001142,Volume Estimation of Fx/ST_L,Measurement,0,Clinical Observation,Volume Estimation of Fx/ST_L,2024-06-01,2099-12-31
+143,2129001143,Volume Estimation of Fx/ST_R,Measurement,0,Clinical Observation,Volume Estimation of Fx/ST_R,2024-06-01,2099-12-31
+144,2129001144,Volume Estimation of Fx_L,Measurement,0,Clinical Observation,Volume Estimation of Fx_L,2024-06-01,2099-12-31
+145,2129001145,Volume Estimation of Fx_R,Measurement,0,Clinical Observation,Volume Estimation of Fx_R,2024-06-01,2099-12-31
+146,2129001146,Volume Estimation of IFO_L,Measurement,0,Clinical Observation,Volume Estimation of IFO_L,2024-06-01,2099-12-31
+147,2129001147,Volume Estimation of IFO_R,Measurement,0,Clinical Observation,Volume Estimation of IFO_R,2024-06-01,2099-12-31
+148,2129001148,Volume Estimation of PTR_L,Measurement,0,Clinical Observation,Volume Estimation of PTR_L,2024-06-01,2099-12-31
+149,2129001149,Volume Estimation of PTR_R,Measurement,0,Clinical Observation,Volume Estimation of PTR_R,2024-06-01,2099-12-31
+150,2129001150,Volume Estimation of SS_L,Measurement,0,Clinical Observation,Volume Estimation of SS_L,2024-06-01,2099-12-31
+151,2129001151,Volume Estimation of SS_R,Measurement,0,Clinical Observation,Volume Estimation of SS_R,2024-06-01,2099-12-31
+152,2129001152,Volume Estimation of SFO_L,Measurement,0,Clinical Observation,Volume Estimation of SFO_L,2024-06-01,2099-12-31
+153,2129001153,Volume Estimation of SFO_R,Measurement,0,Clinical Observation,Volume Estimation of SFO_R,2024-06-01,2099-12-31
+154,2129001154,Volume Estimation of SLF_L,Measurement,0,Clinical Observation,Volume Estimation of SLF_L,2024-06-01,2099-12-31
+155,2129001155,Volume Estimation of SLF_R,Measurement,0,Clinical Observation,Volume Estimation of SLF_R,2024-06-01,2099-12-31
+156,2129001156,Volume Estimation of Cl_L,Measurement,0,Clinical Observation,Volume Estimation of Cl_L,2024-06-01,2099-12-31
+157,2129001157,Volume Estimation of Cl_R,Measurement,0,Clinical Observation,Volume Estimation of Cl_R,2024-06-01,2099-12-31
+158,2129001158,Volume Estimation of PosteriorBasalForebrain_L,Measurement,0,Clinical Observation,Volume Estimation of PosteriorBasalForebrain_L,2024-06-01,2099-12-31
+159,2129001159,Volume Estimation of PosteriorBasalForebrain_R,Measurement,0,Clinical Observation,Volume Estimation of PosteriorBasalForebrain_R,2024-06-01,2099-12-31
+160,2129001160,Volume Estimation of Mammillary_R,Measurement,0,Clinical Observation,Volume Estimation of Mammillary_R,2024-06-01,2099-12-31
+161,2129001161,Volume Estimation of Mammillary_L,Measurement,0,Clinical Observation,Volume Estimation of Mammillary_L,2024-06-01,2099-12-31
+162,2129001162,Volume Estimation of LV_Frontal_L,Measurement,0,Clinical Observation,Volume Estimation of LV_Frontal_L,2024-06-01,2099-12-31
+163,2129001163,Volume Estimation of LV_body_L,Measurement,0,Clinical Observation,Volume Estimation of LV_body_L,2024-06-01,2099-12-31
+164,2129001164,Volume Estimation of LV_atrium_L,Measurement,0,Clinical Observation,Volume Estimation of LV_atrium_L,2024-06-01,2099-12-31
+165,2129001165,Volume Estimation of LV_Occipital_L,Measurement,0,Clinical Observation,Volume Estimation of LV_Occipital_L,2024-06-01,2099-12-31
+166,2129001166,Volume Estimation of LV_Inferior_L,Measurement,0,Clinical Observation,Volume Estimation of LV_Inferior_L,2024-06-01,2099-12-31
+167,2129001167,Volume Estimation of LV_Frontal_R,Measurement,0,Clinical Observation,Volume Estimation of LV_Frontal_R,2024-06-01,2099-12-31
+168,2129001168,Volume Estimation of LV_body_R,Measurement,0,Clinical Observation,Volume Estimation of LV_body_R,2024-06-01,2099-12-31
+169,2129001169,Volume Estimation of LV_atrium_R,Measurement,0,Clinical Observation,Volume Estimation of LV_atrium_R,2024-06-01,2099-12-31
+170,2129001170,Volume Estimation of LV_Occipital_R,Measurement,0,Clinical Observation,Volume Estimation of LV_Occipital_R,2024-06-01,2099-12-31
+171,2129001171,Volume Estimation of LV_Inferior_R,Measurement,0,Clinical Observation,Volume Estimation of LV_Inferior_R,2024-06-01,2099-12-31
+172,2129001172,Volume Estimation of III_ventricle,Measurement,0,Clinical Observation,Volume Estimation of III_ventricle,2024-06-01,2099-12-31
+173,2129001173,Volume Estimation of PVWa_L,Measurement,0,Clinical Observation,Volume Estimation of PVWa_L,2024-06-01,2099-12-31
+174,2129001174,Volume Estimation of PVWa_R,Measurement,0,Clinical Observation,Volume Estimation of PVWa_R,2024-06-01,2099-12-31
+175,2129001175,Volume Estimation of PVWp_L,Measurement,0,Clinical Observation,Volume Estimation of PVWp_L,2024-06-01,2099-12-31
+176,2129001176,Volume Estimation of PVWp_R,Measurement,0,Clinical Observation,Volume Estimation of PVWp_R,2024-06-01,2099-12-31
+177,2129001177,Volume Estimation of SFWM_L,Measurement,0,Clinical Observation,Volume Estimation of SFWM_L,2024-06-01,2099-12-31
+178,2129001178,Volume Estimation of SFWM_R,Measurement,0,Clinical Observation,Volume Estimation of SFWM_R,2024-06-01,2099-12-31
+179,2129001179,Volume Estimation of SFWM_PFC_L,Measurement,0,Clinical Observation,Volume Estimation of SFWM_PFC_L,2024-06-01,2099-12-31
+180,2129001180,Volume Estimation of SFWM_PFC_R,Measurement,0,Clinical Observation,Volume Estimation of SFWM_PFC_R,2024-06-01,2099-12-31
+181,2129001181,Volume Estimation of SFWM_pole_L,Measurement,0,Clinical Observation,Volume Estimation of SFWM_pole_L,2024-06-01,2099-12-31
+182,2129001182,Volume Estimation of SFWM_pole_R,Measurement,0,Clinical Observation,Volume Estimation of SFWM_pole_R,2024-06-01,2099-12-31
+183,2129001183,Volume Estimation of MFWM_L,Measurement,0,Clinical Observation,Volume Estimation of MFWM_L,2024-06-01,2099-12-31
+184,2129001184,Volume Estimation of MFWM_R,Measurement,0,Clinical Observation,Volume Estimation of MFWM_R,2024-06-01,2099-12-31
+185,2129001185,Volume Estimation of MFWM_DPFC_L,Measurement,0,Clinical Observation,Volume Estimation of MFWM_DPFC_L,2024-06-01,2099-12-31
+186,2129001186,Volume Estimation of MFWM_DPFC_R,Measurement,0,Clinical Observation,Volume Estimation of MFWM_DPFC_R,2024-06-01,2099-12-31
+187,2129001187,Volume Estimation of IFWM_opercularis_L,Measurement,0,Clinical Observation,Volume Estimation of IFWM_opercularis_L,2024-06-01,2099-12-31
+188,2129001188,Volume Estimation of IFWM_opercularis_R,Measurement,0,Clinical Observation,Volume Estimation of IFWM_opercularis_R,2024-06-01,2099-12-31
+189,2129001189,Volume Estimation of IFWM_orbitalis_L,Measurement,0,Clinical Observation,Volume Estimation of IFWM_orbitalis_L,2024-06-01,2099-12-31
+190,2129001190,Volume Estimation of IFWM_orbitalis_R,Measurement,0,Clinical Observation,Volume Estimation of IFWM_orbitalis_R,2024-06-01,2099-12-31
+191,2129001191,Volume Estimation of IFWM_triangularis_L,Measurement,0,Clinical Observation,Volume Estimation of IFWM_triangularis_L,2024-06-01,2099-12-31
+192,2129001192,Volume Estimation of IFWM_triangularis_R,Measurement,0,Clinical Observation,Volume Estimation of IFWM_triangularis_R,2024-06-01,2099-12-31
+193,2129001193,Volume Estimation of LFOWM_L,Measurement,0,Clinical Observation,Volume Estimation of LFOWM_L,2024-06-01,2099-12-31
+194,2129001194,Volume Estimation of LFOWM_R,Measurement,0,Clinical Observation,Volume Estimation of LFOWM_R,2024-06-01,2099-12-31
+195,2129001195,Volume Estimation of MFOWM_L,Measurement,0,Clinical Observation,Volume Estimation of MFOWM_L,2024-06-01,2099-12-31
+196,2129001196,Volume Estimation of MFOWM_R,Measurement,0,Clinical Observation,Volume Estimation of MFOWM_R,2024-06-01,2099-12-31
+197,2129001197,Volume Estimation of RGWM_L,Measurement,0,Clinical Observation,Volume Estimation of RGWM_L,2024-06-01,2099-12-31
+198,2129001198,Volume Estimation of RGWM_R,Measurement,0,Clinical Observation,Volume Estimation of RGWM_R,2024-06-01,2099-12-31
+199,2129001199,Volume Estimation of PoCWM_L,Measurement,0,Clinical Observation,Volume Estimation of PoCWM_L,2024-06-01,2099-12-31
+200,2129001200,Volume Estimation of PoCWM_R,Measurement,0,Clinical Observation,Volume Estimation of PoCWM_R,2024-06-01,2099-12-31
+201,2129001201,Volume Estimation of PrCWM_L,Measurement,0,Clinical Observation,Volume Estimation of PrCWM_L,2024-06-01,2099-12-31
+202,2129001202,Volume Estimation of PrCWM_R,Measurement,0,Clinical Observation,Volume Estimation of PrCWM_R,2024-06-01,2099-12-31
+203,2129001203,Volume Estimation of SPWM_L,Measurement,0,Clinical Observation,Volume Estimation of SPWM_L,2024-06-01,2099-12-31
+204,2129001204,Volume Estimation of SPWM_R,Measurement,0,Clinical Observation,Volume Estimation of SPWM_R,2024-06-01,2099-12-31
+205,2129001205,Volume Estimation of SMWM_L,Measurement,0,Clinical Observation,Volume Estimation of SMWM_L,2024-06-01,2099-12-31
+206,2129001206,Volume Estimation of SMWM_R,Measurement,0,Clinical Observation,Volume Estimation of SMWM_R,2024-06-01,2099-12-31
+207,2129001207,Volume Estimation of AGWM_L,Measurement,0,Clinical Observation,Volume Estimation of AGWM_L,2024-06-01,2099-12-31
+208,2129001208,Volume Estimation of AGWM_R,Measurement,0,Clinical Observation,Volume Estimation of AGWM_R,2024-06-01,2099-12-31
+209,2129001209,Volume Estimation of PrCuWM_L,Measurement,0,Clinical Observation,Volume Estimation of PrCuWM_L,2024-06-01,2099-12-31
+210,2129001210,Volume Estimation of PrCuWM_R,Measurement,0,Clinical Observation,Volume Estimation of PrCuWM_R,2024-06-01,2099-12-31
+211,2129001211,Volume Estimation of STWM_L,Measurement,0,Clinical Observation,Volume Estimation of STWM_L,2024-06-01,2099-12-31
+212,2129001212,Volume Estimation of STWM_R,Measurement,0,Clinical Observation,Volume Estimation of STWM_R,2024-06-01,2099-12-31
+213,2129001213,Volume Estimation of STWM_pole_L,Measurement,0,Clinical Observation,Volume Estimation of STWM_pole_L,2024-06-01,2099-12-31
+214,2129001214,Volume Estimation of STWM_pole_R,Measurement,0,Clinical Observation,Volume Estimation of STWM_pole_R,2024-06-01,2099-12-31
+215,2129001215,Volume Estimation of MTWM_L,Measurement,0,Clinical Observation,Volume Estimation of MTWM_L,2024-06-01,2099-12-31
+216,2129001216,Volume Estimation of MTWM_R,Measurement,0,Clinical Observation,Volume Estimation of MTWM_R,2024-06-01,2099-12-31
+217,2129001217,Volume Estimation of MTWM_pole_L,Measurement,0,Clinical Observation,Volume Estimation of MTWM_pole_L,2024-06-01,2099-12-31
+218,2129001218,Volume Estimation of MTWM_pole_R,Measurement,0,Clinical Observation,Volume Estimation of MTWM_pole_R,2024-06-01,2099-12-31
+219,2129001219,Volume Estimation of ITWM_L,Measurement,0,Clinical Observation,Volume Estimation of ITWM_L,2024-06-01,2099-12-31
+220,2129001220,Volume Estimation of ITWM_R,Measurement,0,Clinical Observation,Volume Estimation of ITWM_R,2024-06-01,2099-12-31
+221,2129001221,Volume Estimation of FuWM_L,Measurement,0,Clinical Observation,Volume Estimation of FuWM_L,2024-06-01,2099-12-31
+222,2129001222,Volume Estimation of FuWM_R,Measurement,0,Clinical Observation,Volume Estimation of FuWM_R,2024-06-01,2099-12-31
+223,2129001223,Volume Estimation of SOWM_L,Measurement,0,Clinical Observation,Volume Estimation of SOWM_L,2024-06-01,2099-12-31
+224,2129001224,Volume Estimation of SOWM_R,Measurement,0,Clinical Observation,Volume Estimation of SOWM_R,2024-06-01,2099-12-31
+225,2129001225,Volume Estimation of MOWM_L,Measurement,0,Clinical Observation,Volume Estimation of MOWM_L,2024-06-01,2099-12-31
+226,2129001226,Volume Estimation of MOWM_R,Measurement,0,Clinical Observation,Volume Estimation of MOWM_R,2024-06-01,2099-12-31
+227,2129001227,Volume Estimation of IOWM_L,Measurement,0,Clinical Observation,Volume Estimation of IOWM_L,2024-06-01,2099-12-31
+228,2129001228,Volume Estimation of IOWM_R,Measurement,0,Clinical Observation,Volume Estimation of IOWM_R,2024-06-01,2099-12-31
+229,2129001229,Volume Estimation of CuWM_L,Measurement,0,Clinical Observation,Volume Estimation of CuWM_L,2024-06-01,2099-12-31
+230,2129001230,Volume Estimation of CuWM_R,Measurement,0,Clinical Observation,Volume Estimation of CuWM_R,2024-06-01,2099-12-31
+231,2129001231,Volume Estimation of LGWM_L,Measurement,0,Clinical Observation,Volume Estimation of LGWM_L,2024-06-01,2099-12-31
+232,2129001232,Volume Estimation of LGWM_R,Measurement,0,Clinical Observation,Volume Estimation of LGWM_R,2024-06-01,2099-12-31
+233,2129001233,Volume Estimation of rostralWM_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of rostralWM_ACC_L,2024-06-01,2099-12-31
+234,2129001234,Volume Estimation of rostralWM_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of rostralWM_ACC_R,2024-06-01,2099-12-31
+235,2129001235,Volume Estimation of subcallosalWM_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of subcallosalWM_ACC_L,2024-06-01,2099-12-31
+236,2129001236,Volume Estimation of subcallosalWM_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of subcallosalWM_ACC_R,2024-06-01,2099-12-31
+237,2129001237,Volume Estimation of subgenualWM_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of subgenualWM_ACC_L,2024-06-01,2099-12-31
+238,2129001238,Volume Estimation of subgenualWM_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of subgenualWM_ACC_R,2024-06-01,2099-12-31
+239,2129001239,Volume Estimation of dorsalWM_ACC_L,Measurement,0,Clinical Observation,Volume Estimation of dorsalWM_ACC_L,2024-06-01,2099-12-31
+240,2129001240,Volume Estimation of dorsalWM_ACC_R,Measurement,0,Clinical Observation,Volume Estimation of dorsalWM_ACC_R,2024-06-01,2099-12-31
+241,2129001241,Volume Estimation of PCCWM_L,Measurement,0,Clinical Observation,Volume Estimation of PCCWM_L,2024-06-01,2099-12-31
+242,2129001242,Volume Estimation of PCCWM_R,Measurement,0,Clinical Observation,Volume Estimation of PCCWM_R,2024-06-01,2099-12-31
+243,2129001243,Volume Estimation of CerebellumWM_R,Measurement,0,Clinical Observation,Volume Estimation of CerebellumWM_R,2024-06-01,2099-12-31
+244,2129001244,Volume Estimation of CerebellumWM_L,Measurement,0,Clinical Observation,Volume Estimation of CerebellumWM_L,2024-06-01,2099-12-31
+245,2129001245,Volume Estimation of MCP_cb_L,Measurement,0,Clinical Observation,Volume Estimation of MCP_cb_L,2024-06-01,2099-12-31
+246,2129001246,Volume Estimation of MCP_cb_R,Measurement,0,Clinical Observation,Volume Estimation of MCP_cb_R,2024-06-01,2099-12-31
+247,2129001247,Volume Estimation of ICP_cb_L,Measurement,0,Clinical Observation,Volume Estimation of ICP_cb_L,2024-06-01,2099-12-31
+248,2129001248,Volume Estimation of ICP_cb_R,Measurement,0,Clinical Observation,Volume Estimation of ICP_cb_R,2024-06-01,2099-12-31
+249,2129001249,Volume Estimation of FrontSul_L,Measurement,0,Clinical Observation,Volume Estimation of FrontSul_L,2024-06-01,2099-12-31
+250,2129001250,Volume Estimation of FrontSul_R,Measurement,0,Clinical Observation,Volume Estimation of FrontSul_R,2024-06-01,2099-12-31
+251,2129001251,Volume Estimation of CentralSul_L,Measurement,0,Clinical Observation,Volume Estimation of CentralSul_L,2024-06-01,2099-12-31
+252,2129001252,Volume Estimation of CentralSul_R,Measurement,0,Clinical Observation,Volume Estimation of CentralSul_R,2024-06-01,2099-12-31
+253,2129001253,Volume Estimation of SylFrontSul_L,Measurement,0,Clinical Observation,Volume Estimation of SylFrontSul_L,2024-06-01,2099-12-31
+254,2129001254,Volume Estimation of SylFrontSul_R,Measurement,0,Clinical Observation,Volume Estimation of SylFrontSul_R,2024-06-01,2099-12-31
+255,2129001255,Volume Estimation of SylTempSul_L,Measurement,0,Clinical Observation,Volume Estimation of SylTempSul_L,2024-06-01,2099-12-31
+256,2129001256,Volume Estimation of SylTempSul_R,Measurement,0,Clinical Observation,Volume Estimation of SylTempSul_R,2024-06-01,2099-12-31
+257,2129001257,Volume Estimation of SylParieSul_L,Measurement,0,Clinical Observation,Volume Estimation of SylParieSul_L,2024-06-01,2099-12-31
+258,2129001258,Volume Estimation of SylParieSul_R,Measurement,0,Clinical Observation,Volume Estimation of SylParieSul_R,2024-06-01,2099-12-31
+259,2129001259,Volume Estimation of ParietSul_L,Measurement,0,Clinical Observation,Volume Estimation of ParietSul_L,2024-06-01,2099-12-31
+260,2129001260,Volume Estimation of ParietSul_R,Measurement,0,Clinical Observation,Volume Estimation of ParietSul_R,2024-06-01,2099-12-31
+261,2129001261,Volume Estimation of CinguSul_L,Measurement,0,Clinical Observation,Volume Estimation of CinguSul_L,2024-06-01,2099-12-31
+262,2129001262,Volume Estimation of CinguSul_R,Measurement,0,Clinical Observation,Volume Estimation of CinguSul_R,2024-06-01,2099-12-31
+263,2129001263,Volume Estimation of OcciptSul_L,Measurement,0,Clinical Observation,Volume Estimation of OcciptSul_L,2024-06-01,2099-12-31
+264,2129001264,Volume Estimation of OcciptSul_R,Measurement,0,Clinical Observation,Volume Estimation of OcciptSul_R,2024-06-01,2099-12-31
+265,2129001265,Volume Estimation of TempSul_L,Measurement,0,Clinical Observation,Volume Estimation of TempSul_L,2024-06-01,2099-12-31
+266,2129001266,Volume Estimation of TempSul_R,Measurement,0,Clinical Observation,Volume Estimation of TempSul_R,2024-06-01,2099-12-31
+267,2129001267,Volume Estimation of Caudate_tail_L,Measurement,0,Clinical Observation,Volume Estimation of Caudate_tail_L,2024-06-01,2099-12-31
+268,2129001268,Volume Estimation of Fimbria_L,Measurement,0,Clinical Observation,Volume Estimation of Fimbria_L,2024-06-01,2099-12-31
+269,2129001269,Volume Estimation of Caudate_tail_R,Measurement,0,Clinical Observation,Volume Estimation of Caudate_tail_R,2024-06-01,2099-12-31
+270,2129001270,Volume Estimation of Fimbria_R,Measurement,0,Clinical Observation,Volume Estimation of Fimbria_R,2024-06-01,2099-12-31
+271,2129001271,Volume Estimation of Chroid_LVetc_L,Measurement,0,Clinical Observation,Volume Estimation of Chroid_LVetc_L,2024-06-01,2099-12-31
+272,2129001272,Volume Estimation of Chroid_LVetc_R,Measurement,0,Clinical Observation,Volume Estimation of Chroid_LVetc_R,2024-06-01,2099-12-31
+273,2129001273,Volume Estimation of IV_ventricle,Measurement,0,Clinical Observation,Volume Estimation of IV_ventricle,2024-06-01,2099-12-31
+274,2129001274,Volume Estimation of ECCL_L,Measurement,0,Clinical Observation,Volume Estimation of ECCL_L,2024-06-01,2099-12-31
+275,2129001275,Volume Estimation of ECCL_R,Measurement,0,Clinical Observation,Volume Estimation of ECCL_R,2024-06-01,2099-12-31
+276,2129001276,Volume Estimation of ECSAnterior_L,Measurement,0,Clinical Observation,Volume Estimation of ECSAnterior_L,2024-06-01,2099-12-31
+277,2129001277,Volume Estimation of ECSAnterior_R,Measurement,0,Clinical Observation,Volume Estimation of ECSAnterior_R,2024-06-01,2099-12-31
+278,2129001278,Volume Estimation of ECSPosterior_L,Measurement,0,Clinical Observation,Volume Estimation of ECSPosterior_L,2024-06-01,2099-12-31
+279,2129001279,Volume Estimation of ECSPosterior_R,Measurement,0,Clinical Observation,Volume Estimation of ECSPosterior_R,2024-06-01,2099-12-31
