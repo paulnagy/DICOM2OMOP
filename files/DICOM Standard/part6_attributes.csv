@@ -1,4 +1,4 @@
-Tag,Name,Keyword,VR,VM,,Tag_cleaned
+Tag,Name,Keyword,VR,VM,Remarks,Tag_cleaned
 "(0008,0001)",Length to End,Length​To​End,UL,1,RET,00080001
 "(0008,0005)",Specific Character Set,Specific​Character​Set,CS,1-n,,00080005
 "(0008,0006)",Language Code Sequence,Language​Code​Sequence,SQ,1,,00080006

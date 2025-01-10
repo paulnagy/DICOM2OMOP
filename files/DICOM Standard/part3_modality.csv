@@ -1,80 +1,80 @@
-﻿code,description,concept_id
-ANN,Annotation,
-AR,Autorefraction,
-ASMT,Content Assessment Results,
-AU,Audio,
-BDUS,Bone Densitometry (ultrasound),
-BI,Biomagnetic imaging,
-BMD,Bone Densitometry (X-Ray),
-CFM,Confocal Microscopy,42628535
-CR,Computed Radiography,
-CT,Computed Tomography,4300757
-CTPROTOCOL,CT Protocol (Performed),
-DMS,Dermoscopy,40486413
-DG,Diaphanography,4082994
-DOC,Document,
-DX,Digital Radiography,4178367
-ECG,Electrocardiography,4163951
-EEG,Electroencephalography,4031049
-EMG,Electromyography,4179815
-EOG,Electrooculography,2313662
-EPS,Cardiac Electrophysiology,4098039
-ES,Endoscopy,4313889
-FID,Fiducials,
-GM,General Microscopy,4036697
-HC,Hard Copy,
-HD,Hemodynamic,4196232
-IO,Intra-Oral Radiography,
-IOL,Intraocular Lens Data,
-IVOCT,Intravascular Optical Coherence Tomography,44784222
-IVUS,Intravascular Ultrasound,4045961
-KER,Keratometry,4099540
-KO,Key Object Selection,
-LEN,Lensometry,762602
-LS,Laser surface scan,
-MG,Mammography,4324693
-MR,Magnetic Resonance,4013636
-M3D,Model for 3D Manufacturing,
-NM,Nuclear Medicine,4155794
-OAM,Ophthalmic Axial Measurements,4090078
-OCT,Optical Coherence Tomography (non-Ophthalmic),4213040
-OP,Ophthalmic Photography,4290746
-OPM,Ophthalmic Mapping,
-OPT,Ophthalmic Tomography,
-OPTBSV,Ophthalmic Tomography B-scan Volume Analysis,
-OPTENF,Ophthalmic Tomography En Face,
-OPV,Ophthalmic Visual Field,
-OSS,Optical Surface Scan,
-OT,Other,
-PA,Photoacoustic,
-PLAN,Plan,706481
-POS,Position Sensor,
-PR,Presentation State,
-PT,Positron emission tomography (PET),4305790
-PX,Panoramic X-Ray,45768262
-REG,Registration,
-RESP,Respiratory,
-RF,Radio Fluoroscopy,
-RG,Radiographic imaging (conventional film/screen),4178367
-RTDOSE,Radiotherapy Dose,
-RTIMAGE,Radiotherapy Image,1242725
-RTINTENT,Radiotherapy Intent,
-RTPLAN,Radiotherapy Plan,37165785
-RTRAD,RT Radiation,
-RTRECORD,RT Treatment Record,
-RTSEGANN,Radiotherapy Segment Annotation,
-RTSTRUCT,Radiotherapy Structure Set,
-RWV,Real World Value Map,
-SEG,Segmentation,4251918
-SM,Slide Microscopy,
-SMR,Stereometric Relationship,
-SR,SR Document,
-SRF,Subjective Refraction,4288071
-STAIN,Automated Slide Stainer,
-TEXTUREMAP,Texture Map,
-TG,Thermography,4231544
-US,Ultrasound,4230801
-VA,Visual Acuity,4056269
-XA,X-Ray Angiography,4299523
-XAPROTOCOL,XA Protocol (Performed),
-XC,External-camera Photography,4014022
+code,description
+ANN,Annotation
+AR,Autorefraction
+ASMT,Content Assessment Results
+AU,Audio
+BDUS,Bone Densitometry (ultrasound)
+BI,Biomagnetic imaging
+BMD,Bone Densitometry (X-Ray)
+CFM,Confocal Microscopy
+CR,Computed Radiography
+CT,Computed Tomography
+CTPROTOCOL,CT Protocol (Performed)
+DMS,Dermoscopy
+DG,Diaphanography
+DOC,Document
+DX,Digital Radiography
+ECG,Electrocardiography
+EEG,Electroencephalography
+EMG,Electromyography
+EOG,Electrooculography
+EPS,Cardiac Electrophysiology
+ES,Endoscopy
+FID,Fiducials
+GM,General Microscopy
+HC,Hard Copy
+HD,Hemodynamic
+IO,Intra-Oral Radiography
+IOL,Intraocular Lens Data
+IVOCT,Intravascular Optical Coherence Tomography
+IVUS,Intravascular Ultrasound
+KER,Keratometry
+KO,Key Object Selection
+LEN,Lensometry
+LS,Laser surface scan
+MG,Mammography
+MR,Magnetic Resonance
+M3D,Model for 3D Manufacturing
+NM,Nuclear Medicine
+OAM,Ophthalmic Axial Measurements
+OCT,Optical Coherence Tomography (non-Ophthalmic)
+OP,Ophthalmic Photography
+OPM,Ophthalmic Mapping
+OPT,Ophthalmic Tomography
+OPTBSV,Ophthalmic Tomography B-scan Volume Analysis
+OPTENF,Ophthalmic Tomography En Face
+OPV,Ophthalmic Visual Field
+OSS,Optical Surface Scan
+OT,Other
+PA,Photoacoustic
+PLAN,Plan
+POS,Position Sensor
+PR,Presentation State
+PT,Positron emission tomography (PET)
+PX,Panoramic X-Ray
+REG,Registration
+RESP,Respiratory
+RF,Radio Fluoroscopy
+RG,Radiographic imaging (conventional film/screen)
+RTDOSE,Radiotherapy Dose
+RTIMAGE,Radiotherapy Image
+RTINTENT,Radiotherapy Intent
+RTPLAN,Radiotherapy Plan
+RTRAD,RT Radiation
+RTRECORD,RT Treatment Record
+RTSEGANN,Radiotherapy Segment Annotation
+RTSTRUCT,Radiotherapy Structure Set
+RWV,Real World Value Map
+SEG,Segmentation
+SM,Slide Microscopy
+SMR,Stereometric Relationship
+SR,SR Document
+SRF,Subjective Refraction
+STAIN,Automated Slide Stainer
+TEXTUREMAP,Texture Map
+TG,Thermography
+US,Ultrasound
+VA,Visual Acuity
+XA,X-Ray Angiography
+XAPROTOCOL,XA Protocol (Performed)
+XC,External-camera Photography
