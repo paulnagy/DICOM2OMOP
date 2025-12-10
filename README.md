@@ -1,4 +1,4 @@
-# Dicom2OMOP
+# DICOM2OMOP
 This project builds on a published work, ["Development of Medical Imaging Data Standardization for Imaging-Based Observational Research: OMOP Common Data Model Extension"](https://pubmed.ncbi.nlm.nih.gov/38315345/). A copy of the full paper can also be found in the files folder.
 This project aims to create a controlled vocabulary for the DICOM Pt 6 Data Dictionary and DICOM Pt 16, focusing on code strings in the OMOP vocabulary format.
 
